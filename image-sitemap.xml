@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.bosforkmv.ru/</loc>
+    <image:image><image:loc>https://www.bosforkmv.ru/assets/images/hero-mantera.jpg</image:loc><image:title>Светопрозрачные конструкции БОСФОР</image:title></image:image>
+    <image:image><image:loc>https://www.bosforkmv.ru/assets/images/private-house.jpg</image:loc><image:title>Панорамное остекление частного дома</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.bosforkmv.ru/proekty/mantera-resort/</loc>
+    <image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/mantera-aerial.jpg</image:loc><image:title>Mantera Resort в Сочи</image:title></image:image>
+    <image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/mantera-front.webp</image:loc><image:title>Фасад Mantera Resort</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.bosforkmv.ru/proekty/marriott-krasnodar/</loc>
+    <image:image><image:loc>https://www.bosforkmv.ru/assets/images/marriott.jpg</image:loc><image:title>Marriott Краснодар</image:title></image:image>
+    <image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/marriott-detail.jpg</image:loc><image:title>Фасад гостиницы Marriott</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.bosforkmv.ru/chastnym-klientam/</loc>
+    <image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/private-house-terrace.jpg</image:loc><image:title>Панорамный выход на террасу</image:title></image:image>
+    <image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/private-residence.jpg</image:loc><image:title>Остекление частной резиденции</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.bosforkmv.ru/fasady-i-vitrazhi/</loc>
+    <image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/ushakov-facade.webp</image:loc><image:title>Алюминиевый фасад общественного здания</image:title></image:image>
+  </url>
+  <url><loc>https://www.bosforkmv.ru/proekty/vershina-essentuki/</loc><image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/catalog/vershina-essentuki-1.webp</image:loc><image:title>ТЦ Вершина в Ессентуках</image:title></image:image></url>
+  <url><loc>https://www.bosforkmv.ru/proekty/atrium-kislovodsk/</loc><image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/catalog/atrium-kislovodsk-1.webp</image:loc><image:title>ТЦ Атриум в Кисловодске</image:title></image:image></url>
+  <url><loc>https://www.bosforkmv.ru/proekty/istochnik-essentuki/</loc><image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/catalog/istochnik-essentuki-1.webp</image:loc><image:title>Санаторий Источник в Ессентуках</image:title></image:image></url>
+  <url><loc>https://www.bosforkmv.ru/proekty/rus-essentuki/</loc><image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/catalog/rus-essentuki-1.webp</image:loc><image:title>Санаторий Русь в Ессентуках</image:title></image:image></url>
+  <url><loc>https://www.bosforkmv.ru/proekty/magas-sports-palace/</loc><image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/catalog/magas-sports-palace-1.webp</image:loc><image:title>Дворец спорта Магас</image:title></image:image></url>
+  <url><loc>https://www.bosforkmv.ru/proekty/tselebny-narzan/</loc><image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/catalog/tselebny-narzan-1.webp</image:loc><image:title>Санаторий Целебный нарзан</image:title></image:image></url>
+  <url><loc>https://www.bosforkmv.ru/proekty/russia-my-history/</loc><image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/catalog/russia-my-history-1.webp</image:loc><image:title>Музей Россия Моя история</image:title></image:image></url>
+  <url><loc>https://www.bosforkmv.ru/proekty/sokol-rostov/</loc><image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/catalog/sokol-rostov-1.webp</image:loc><image:title>ТЦ Сокол в Ростове-на-Дону</image:title></image:image></url>
+  <url><loc>https://www.bosforkmv.ru/proekty/sochi-seaport/</loc><image:image><image:loc>https://www.bosforkmv.ru/assets/images/projects/catalog/sochi-seaport-1.webp</image:loc><image:title>Морской вокзал в Сочи</image:title></image:image></url>
+</urlset>
