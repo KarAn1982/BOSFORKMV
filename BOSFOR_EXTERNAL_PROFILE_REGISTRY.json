@@ -1,0 +1,55 @@
+{
+  "version": "2026-06-19",
+  "profiles": [
+    {
+      "platform": "Яндекс Бизнес и Карты",
+      "priority": "P0",
+      "profile_url": null,
+      "status": "access_required",
+      "fields": ["name", "category", "phone", "address", "hours", "website", "photos", "services"]
+    },
+    {
+      "platform": "2ГИС",
+      "priority": "P0",
+      "profile_url": null,
+      "status": "access_required",
+      "fields": ["name", "category", "phone", "address", "hours", "website", "photos"]
+    },
+    {
+      "platform": "Google Business Profile",
+      "priority": "P1_if_existing",
+      "profile_url": null,
+      "status": "existence_check_required",
+      "fields": ["name", "phone", "address", "hours", "website"]
+    },
+    {
+      "platform": "VK",
+      "priority": "P1",
+      "profile_url": null,
+      "status": "existence_check_required",
+      "fields": ["name", "phone", "address", "website", "description"]
+    },
+    {
+      "platform": "официальные страницы партнёров",
+      "priority": "P1",
+      "profile_url": null,
+      "status": "relationship_evidence_required",
+      "fields": ["company_name", "website", "region", "partner_status", "certificate_expiry"]
+    },
+    {
+      "platform": "отраслевые каталоги и тендерные профили",
+      "priority": "P2",
+      "profile_url": null,
+      "status": "inventory_required",
+      "fields": ["legal_name", "tax_id", "phone", "address", "website", "competencies"]
+    }
+  ],
+  "quality_rules": [
+    "Use one owner-approved NAP record everywhere",
+    "Do not create duplicate map listings",
+    "Do not claim official partner status without current evidence",
+    "Use canonical HTTPS website URL without tracking parameters",
+    "Record profile URL, owner account, verification method and last review date"
+  ]
+}
+

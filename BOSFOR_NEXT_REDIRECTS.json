@@ -1,0 +1,717 @@
+[
+  {
+    "source": "/",
+    "destination": "/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/alyuminievye-okna/",
+    "destination": "/alyuminievye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/balkony/",
+    "destination": "/alyuminievye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/dveri/",
+    "destination": "/alyuminievye-dveri/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/fasady/",
+    "destination": "/fasady-i-vitrazhi/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/kontakty/",
+    "destination": "/kontakty/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/montazh-ventiliruemyh-fasadov/",
+    "destination": "/fasady-i-vitrazhi/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/nestandartnye-okna-3/",
+    "destination": "/alyuminievye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/o-kompanii/",
+    "destination": "/o-kompanii/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/peregorodki/",
+    "destination": "/alyuminievye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/pravovaya-informacziya/",
+    "destination": "/privacy/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/produkcziya/",
+    "destination": "/alyuminievye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/razdvizhnye-dveri/",
+    "destination": "/portalnye-sistemy/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/resheniya/",
+    "destination": "/zastrojshhikam/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/terrasy-verandy-besedki/",
+    "destination": "/chastnym-klientam/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/uslugi/",
+    "destination": "/zastrojshhikam/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/ventiliruemye-fasady/",
+    "destination": "/fasady-i-vitrazhi/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/zenitnye-fonari/",
+    "destination": "/fasady-i-vitrazhi/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/zimnie-sady/",
+    "destination": "/chastnym-klientam/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "bosfor-b2b.web-booster.ru"
+      }
+    ]
+  },
+  {
+    "source": "/aksessuary/",
+    "destination": "/solntsezashchita/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/alyuminievye-sistemy/",
+    "destination": "/alyuminievye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/alyuminievye-sistemy/alyuminievye-dveri/",
+    "destination": "/alyuminievye-dveri/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/alyuminievye-sistemy/alyuminievye-okna/",
+    "destination": "/alyuminievye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/alyuminievye-sistemy/fasady-i-vitrazhi/",
+    "destination": "/fasady-i-vitrazhi/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/alyuminievye-sistemy/razdvizhnye-dveri/",
+    "destination": "/portalnye-sistemy/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/bessrochnaya-garantiya/",
+    "destination": "/kontakty/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/dopolnitelnoe-oborudovanie/",
+    "destination": "/partnery/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/furnitura-3/",
+    "destination": "/partnery/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/furnitura-obs/",
+    "destination": "/partnery/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/garantiya-2/",
+    "destination": "/kontakty/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/garantiya-3/",
+    "destination": "/kontakty/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/gorizontalnye-zhalyuzi/",
+    "destination": "/solntsezashchita/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/intelio-slide/",
+    "destination": "/portalnye-sistemy/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/komplektuyushhie/",
+    "destination": "/partnery/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/komplektuyushhie-obs/",
+    "destination": "/partnery/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/mnogostupenchatoe-mikroprovetrivani/",
+    "destination": "/partnery/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/montazh/",
+    "destination": "/polnyj-tsikl/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/moskitnaya-setka-2/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/nyanya-obs/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/obratnaya-svyaz/",
+    "destination": "/kontakty/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/okna/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/okna/rehau/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/o-kompani/",
+    "destination": "/o-kompanii/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/okonnaya-nyanya/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/okonnyj-servis/",
+    "destination": "/kontakty/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/otkosy-pvh/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/podokonniki-danke/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/podokonniki-moeller/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/portaly/",
+    "destination": "/portalnye-sistemy/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/pravovaya-informacziya/",
+    "destination": "/privacy/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/psk-portaly/",
+    "destination": "/portalnye-sistemy/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/rehau-blitz-new-60-mm/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/rehau-delight-design-70-mm/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/rehau-grazio-70-mm/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/rehau-intelio-80-mm/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/rehau-thermo-design-60-mm/",
+    "destination": "/plastikovye-okna/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/reshili-pomenyat-okna-s-chego-nachat/",
+    "destination": "/knowledge/kak-vybrat-okna-dlya-doma/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/rukovodstvo-po-ekspluataczii-bosfor/",
+    "destination": "/kontakty/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/rulon/",
+    "destination": "/solntsezashchita/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/rulonnye-shtory/",
+    "destination": "/solntsezashchita/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/siegenia-obs/",
+    "destination": "/partnery/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/steklopakety/",
+    "destination": "/partnery/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/vertikalnye-zhalyuzi/",
+    "destination": "/solntsezashchita/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/zayavka/",
+    "destination": "/kontakty/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  },
+  {
+    "source": "/zhalyuzi/",
+    "destination": "/solntsezashchita/",
+    "permanent": true,
+    "has": [
+      {
+        "type": "host",
+        "value": "www.bosforkmv.ru"
+      }
+    ]
+  }
+]

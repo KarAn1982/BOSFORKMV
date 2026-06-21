@@ -1,0 +1,6 @@
+asset_id,file_or_folder,content_type,object_or_person,author,shoot_date,source_owner,client_permission,property_release,person_consent,trademark_permission,allowed_channels,expiry_date,status,reviewed_by,notes
+production_001,,photo,Производственная площадка,,,,required,required,required,required,"website,social,print",,missing,,
+team_001,,photo,Сотрудник/эксперт,,,,not_applicable,not_applicable,required,not_applicable,"website,social,print",,missing,,
+montage_001,,photo,Монтажный объект,,,,required,required,required,required,"website,social,print",,missing,,
+video_001,,video,Производство и монтаж,,,,required,required,required,required,"website,social,presentation",,missing,,
+

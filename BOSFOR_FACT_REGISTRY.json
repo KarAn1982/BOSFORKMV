@@ -1,0 +1,171 @@
+{
+  "version": "2026-06-19",
+  "statuses": {
+    "published_current_site": "Published on the current company site, but not yet owner-approved for migration",
+    "conflict": "Conflicting values exist and owner confirmation is required",
+    "evidence_required": "Claim exists, but supporting evidence is required",
+    "source_document_matched": "Claim is present in a supplied source document, but document date and current revision still require confirmation",
+    "archive_only": "Available only in archive/catalog material",
+    "approved": "Owner-approved and allowed for production publication"
+  },
+  "facts": [
+    {
+      "id": "company_founding_year",
+      "claim": "Компания основана в 1996 году",
+      "status": "published_current_site",
+      "sources": [
+        "https://www.bosforkmv.ru/",
+        "https://www.bosforkmv.ru/o-kompani/"
+      ],
+      "production_use": "visible_copy_only_until_owner_confirmation"
+    },
+    {
+      "id": "sales_phone",
+      "claim": "Основной телефон отдела продаж: 8 800 101-17-41",
+      "status": "conflict",
+      "sources": [
+        "https://www.bosforkmv.ru/"
+      ],
+      "conflict": "На той же главной странице встречается номер 8 800 301-48-98",
+      "production_use": "requires_owner_confirmation"
+    },
+    {
+      "id": "office_address",
+      "claim": "Пятигорск, улица Ермолова, строение 14",
+      "status": "published_current_site",
+      "sources": [
+        "https://www.bosforkmv.ru/",
+        "https://www.bosforkmv.ru/o-kompani/"
+      ],
+      "production_use": "requires_owner_confirmation"
+    },
+    {
+      "id": "company_email",
+      "claim": "info@bosforkmv.ru",
+      "status": "published_current_site",
+      "sources": [
+        "https://www.bosforkmv.ru/"
+      ],
+      "production_use": "requires_owner_confirmation"
+    },
+    {
+      "id": "working_hours",
+      "claim": "Пн–пт 08:00–17:00, сб 09:00–15:00",
+      "status": "published_current_site",
+      "sources": [
+        "https://www.bosforkmv.ru/",
+        "https://www.bosforkmv.ru/o-kompani/"
+      ],
+      "production_use": "requires_owner_confirmation"
+    },
+    {
+      "id": "production_location",
+      "claim": "Производство находится в городе Лермонтов Ставропольского края",
+      "status": "published_current_site",
+      "sources": [
+        "https://www.bosforkmv.ru/o-kompani/"
+      ],
+      "production_use": "requires_owner_confirmation_and_address"
+    },
+    {
+      "id": "sales_offices",
+      "claim": "Офисы продаж находятся в Пятигорске, Ессентуках и Черкесске",
+      "status": "published_current_site",
+      "sources": [
+        "https://www.bosforkmv.ru/o-kompani/"
+      ],
+      "production_use": "requires_current_office_list"
+    },
+    {
+      "id": "satisfied_clients",
+      "claim": "58 421 довольный клиент",
+      "status": "evidence_required",
+      "sources": [
+        "https://www.bosforkmv.ru/"
+      ],
+      "missing_evidence": "Дата среза, CRM-выгрузка и правило подсчёта"
+    },
+    {
+      "id": "positive_reviews",
+      "claim": "96% положительных отзывов",
+      "status": "evidence_required",
+      "sources": [
+        "https://www.bosforkmv.ru/"
+      ],
+      "missing_evidence": "Площадка, период, объём выборки и методика"
+    },
+    {
+      "id": "annual_capacity",
+      "claim": "350 000 м² продукции в год",
+      "status": "evidence_required",
+      "sources": [
+        "https://www.bosforkmv.ru/"
+      ],
+      "missing_evidence": "Период, производственный отчёт и определение мощности"
+    },
+    {
+      "id": "golden_window_awards",
+      "claim": "Победитель премии «Золотое окно» с 2015 по 2018 год",
+      "status": "evidence_required",
+      "sources": [
+        "https://www.bosforkmv.ru/o-kompani/"
+      ],
+      "missing_evidence": "Дипломы или страницы организатора по каждому году"
+    },
+    {
+      "id": "alutech_relationship",
+      "claim": "БОСФОР использует системы Alutech",
+      "status": "evidence_required",
+      "sources": [
+        "https://alutech-group.com/"
+      ],
+      "missing_evidence": "Договор, сертификат или карточка БОСФОР в официальной партнёрской сети"
+    },
+    {
+      "id": "alutech_w77_limits",
+      "claim": "ALT W77 W: створка до 2 500 × 1 600 мм, звукоизоляция до 47 дБ",
+      "status": "source_document_matched",
+      "sources": [
+        "local:Для сайтов партнеров/Окна с термоизоляцией/Окно с повышенной термоизоляцией ALT W77/Инфо ALT W77 W.docx"
+      ],
+      "production_use": "allowed_with_configuration_disclaimer_and_revision_check"
+    },
+    {
+      "id": "alutech_sl160_limits",
+      "claim": "ALT SL160: створка до 3 400 × 3 250 мм, заполнение до 440 кг",
+      "status": "source_document_matched",
+      "sources": [
+        "local:Для сайтов партнеров/Порталы/Подъемно - раздвижные конструкции ALT SL160/Подъемно - раздвижные и сдвижные конструкции ALT SL160.docx"
+      ],
+      "production_use": "allowed_with_configuration_disclaimer_and_revision_check"
+    },
+    {
+      "id": "alutech_f50_limits",
+      "claim": "ALT F50: заполнение до 1 100 кг, внешняя видимая ширина 50 мм",
+      "status": "source_document_matched",
+      "sources": [
+        "local:Для сайтов партнеров/Фасады/Классический фасад ALT F50/Инфо классический фасад F50.docx"
+      ],
+      "production_use": "allowed_with_configuration_disclaimer_and_revision_check"
+    },
+    {
+      "id": "alutech_alt150_limits",
+      "claim": "ALT 150: утепление до 300 мм, разрешённая высота применения 150 м",
+      "status": "source_document_matched",
+      "sources": [
+        "local:Для сайтов партнеров/НВФ/Инфо НВФ ALT150.docx"
+      ],
+      "production_use": "allowed_with_configuration_disclaimer_and_revision_check"
+    },
+    {
+      "id": "archive_projects",
+      "claim": "Архивные объекты из имиджевого каталога выполнены БОСФОР",
+      "status": "archive_only",
+      "sources": [
+        "local:bosfor-catalog.html",
+        "local:БОСФОР — Архитектура света · Имиджевый каталог"
+      ],
+      "missing_evidence": "Договоры, акты, проектная документация или письменное подтверждение компании"
+    }
+  ]
+}

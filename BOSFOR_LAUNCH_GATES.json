@@ -1,0 +1,118 @@
+{
+  "version": "2026-06-20",
+  "policy": "fail_closed",
+  "gates": [
+    {
+      "id": "owner_facts",
+      "area": "content_geo",
+      "owner": "Владелец",
+      "status": "blocked_external",
+      "required_evidence": "Owner-approved facts and NAP record"
+    },
+    {
+      "id": "legal_review",
+      "area": "legal",
+      "owner": "Юрист",
+      "status": "blocked_external",
+      "required_evidence": "All legal review matrix rows approved"
+    },
+    {
+      "id": "media_rights",
+      "area": "media",
+      "owner": "Юрист+Маркетинг",
+      "status": "blocked_external",
+      "required_evidence": "Publication rights for every production asset"
+    },
+    {
+      "id": "production_media",
+      "area": "media",
+      "owner": "Маркетинг",
+      "status": "blocked_external",
+      "required_evidence": "Production, team, installation photos and video"
+    },
+    {
+      "id": "crm_delivery",
+      "area": "sales",
+      "owner": "Продажи+IT",
+      "status": "blocked_external",
+      "required_evidence": "Production CRM IDs, durable queue and acceptance test"
+    },
+    {
+      "id": "analytics",
+      "area": "analytics",
+      "owner": "Маркетинг+Юрист",
+      "status": "blocked_external",
+      "required_evidence": "Approved consent decision, Metrika/GA4 IDs and production debug"
+    },
+    {
+      "id": "search_ownership",
+      "area": "seo",
+      "owner": "SEO+IT",
+      "status": "blocked_external",
+      "required_evidence": "Search Console and Yandex Webmaster verified properties"
+    },
+    {
+      "id": "search_submission",
+      "area": "seo",
+      "owner": "SEO",
+      "status": "blocked_external",
+      "required_evidence": "Sitemap and IndexNow submission receipts"
+    },
+    {
+      "id": "external_profiles",
+      "area": "geo",
+      "owner": "Маркетинг",
+      "status": "blocked_external",
+      "required_evidence": "Synchronized Yandex Business, 2GIS and relevant profiles"
+    },
+    {
+      "id": "remote_staging",
+      "area": "infrastructure",
+      "owner": "IT",
+      "status": "blocked_external",
+      "required_evidence": "Remote staging URL, Basic Auth and noindex verification"
+    },
+    {
+      "id": "database_media_backup",
+      "area": "infrastructure",
+      "owner": "IT",
+      "status": "blocked_external",
+      "required_evidence": "PostgreSQL PITR/WAL and media restore drill"
+    },
+    {
+      "id": "cms_production_rbac",
+      "area": "infrastructure",
+      "owner": "IT+Редакция",
+      "status": "blocked_external",
+      "required_evidence": "Payload users, MFA, access hooks and audit log"
+    },
+    {
+      "id": "cdn_tls",
+      "area": "performance",
+      "owner": "IT",
+      "status": "blocked_external",
+      "required_evidence": "Public CDN/TLS headers and purge verification"
+    },
+    {
+      "id": "field_cwv",
+      "area": "performance",
+      "owner": "IT+SEO",
+      "status": "blocked_external",
+      "required_evidence": "28-day p75 LCP, INP and CLS report"
+    },
+    {
+      "id": "manual_accessibility_devices",
+      "area": "ux",
+      "owner": "QA",
+      "status": "blocked_external",
+      "required_evidence": "Screen reader, Safari, Firefox and real-device sign-off"
+    },
+    {
+      "id": "user_testing",
+      "area": "ux",
+      "owner": "Продукт+Продажи",
+      "status": "blocked_external",
+      "required_evidence": "Key-scenario user testing report"
+    }
+  ]
+}

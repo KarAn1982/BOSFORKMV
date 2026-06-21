@@ -1,0 +1,48 @@
+{
+  "version": "2026-06-19",
+  "facts": [
+    {
+      "fact_id": "alutech_w77_limits",
+      "claims": [
+        "Максимальная высота створки 2 500 мм",
+        "Максимальная ширина створки 1 600 мм",
+        "Звукоизоляция до 47 дБ"
+      ],
+      "source_document": "Окна с термоизоляцией\\Окно с повышенной термоизоляцией ALT W77\\Инфо ALT W77 W.docx",
+      "status": "source_document_matched",
+      "validity_note": "Publication date and current product revision are not present in the extracted source."
+    },
+    {
+      "fact_id": "alutech_sl160_limits",
+      "claims": [
+        "Максимальная высота створки 3 400 мм",
+        "Максимальная ширина створки 3 250 мм",
+        "Максимальный вес заполнения 440 кг"
+      ],
+      "source_document": "Порталы\\Подъемно - раздвижные конструкции ALT SL160\\Подъемно - раздвижные и сдвижные конструкции ALT SL160.docx",
+      "status": "source_document_matched",
+      "validity_note": "Publication date and current product revision are not present in the extracted source."
+    },
+    {
+      "fact_id": "alutech_f50_limits",
+      "claims": [
+        "Максимальный вес заполнения 800 или 1 100 кг",
+        "Внешняя видимая ширина профилей 50 мм"
+      ],
+      "source_document": "Фасады\\Классический фасад  ALT F50\\Инфо классический фасад F50.docx",
+      "status": "source_document_matched",
+      "validity_note": "Publication date and current product revision are not present in the extracted source."
+    },
+    {
+      "fact_id": "alutech_alt150_limits",
+      "claims": [
+        "Толщина утепления до 300 мм",
+        "Разрешённая высота применения 150 м"
+      ],
+      "source_document": "НВФ\\Инфо НВФ ALT150.docx",
+      "status": "source_document_matched",
+      "validity_note": "Publication date and current product revision are not present in the extracted source."
+    }
+  ],
+  "errors": []
+}

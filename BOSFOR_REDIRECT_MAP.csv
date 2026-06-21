@@ -1,0 +1,85 @@
+﻿source_site,source_url,current_status,target,action,note,approval
+b2b,https://bosfor-b2b.web-booster.ru/,200,/,301,Главная,pending
+b2b,https://bosfor-b2b.web-booster.ru/?post_type=popup&p=668,404,/,301,Главная,pending
+b2b,https://bosfor-b2b.web-booster.ru/?post_type=popup&p=669,404,/,301,Главная,pending
+b2b,https://bosfor-b2b.web-booster.ru/71-2/,200,410,410,Слабый или служебный URL,pending
+b2b,https://bosfor-b2b.web-booster.ru/7-800-350-97-15/,200,410,410,Слабый или служебный URL,pending
+b2b,https://bosfor-b2b.web-booster.ru/alyuminievye-okna/,200,/alyuminievye-okna/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/balkony/,200,/alyuminievye-sistemy/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/dveri/,200,/alyuminievye-dveri/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/fasady/,200,/zastrojshhikam/fasadnoe-osteklenie/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/kontakty/,200,/kontakty/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/layout_type/layout/,200,410,410,Технический URL конструктора,pending
+b2b,https://bosfor-b2b.web-booster.ru/layout_type/module/,200,410,410,Технический URL конструктора,pending
+b2b,https://bosfor-b2b.web-booster.ru/layout_type/row/,200,410,410,Технический URL конструктора,pending
+b2b,https://bosfor-b2b.web-booster.ru/layout_type/section/,200,410,410,Технический URL конструктора,pending
+b2b,https://bosfor-b2b.web-booster.ru/module_width/regular/,200,410,410,Технический URL конструктора,pending
+b2b,https://bosfor-b2b.web-booster.ru/montazh-ventiliruemyh-fasadov/,200,/zastrojshhikam/ventiliruemye-fasady/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/nestandartnye-okna-3/,200,/alyuminievye-okna/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/o-kompanii/,200,/o-kompanii/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/peregorodki/,200,/alyuminievye-sistemy/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/pravovaya-informacziya/,200,/pravovaya-informacziya/,301,Сохранить юридическую страницу,pending
+b2b,https://bosfor-b2b.web-booster.ru/produkcziya/,200,/alyuminievye-sistemy/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/razdvizhnye-dveri/,200,/razdvizhnye-sistemy/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/resheniya/,200,/zastrojshhikam/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/scope/global/,200,410,410,Технический URL конструктора,pending
+b2b,https://bosfor-b2b.web-booster.ru/scope/not_global/,200,410,410,Технический URL конструктора,pending
+b2b,https://bosfor-b2b.web-booster.ru/terrasy-verandy-besedki/,200,/osteklenie-domov/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/type/link/,200,410,410,Технический URL конструктора,pending
+b2b,https://bosfor-b2b.web-booster.ru/uslugi/,200,/zastrojshhikam/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/ventiliruemye-fasady/,200,/zastrojshhikam/ventiliruemye-fasady/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/zenitnye-fonari/,200,/zastrojshhikam/svetoprozrachnye-krovli/,301,Точный тематический перенос,pending
+b2b,https://bosfor-b2b.web-booster.ru/zimnie-sady/,200,/osteklenie-domov/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/,200,/,301,Главная,pending
+main,https://www.bosforkmv.ru/aksessuary/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/alyuminievye-sistemy/,200,/alyuminievye-sistemy/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/alyuminievye-sistemy/alyuminievye-dveri/,200,/alyuminievye-dveri/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/alyuminievye-sistemy/alyuminievye-okna/,200,/alyuminievye-okna/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/alyuminievye-sistemy/fasady-i-vitrazhi/,200,/zastrojshhikam/fasadnoe-osteklenie/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/alyuminievye-sistemy/razdvizhnye-dveri/,200,/razdvizhnye-sistemy/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/bessrochnaya-garantiya/,200,/okonnyj-servis/,301,Сервис и гарантия,pending
+main,https://www.bosforkmv.ru/category/post/,200,410,410,Слабый или служебный URL,pending
+main,https://www.bosforkmv.ru/dopolnitelnoe-oborudovanie/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/ecoline-obs/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/furnitura-3/,200,/tehnologii/furnitura/,301,Консолидация комплектующих,pending
+main,https://www.bosforkmv.ru/furnitura-obs/,200,/tehnologii/furnitura/,301,Консолидация комплектующих,pending
+main,https://www.bosforkmv.ru/garantiya-2/,200,/okonnyj-servis/,301,Сервис и гарантия,pending
+main,https://www.bosforkmv.ru/garantiya-3/,200,/okonnyj-servis/,301,Сервис и гарантия,pending
+main,https://www.bosforkmv.ru/gorizontalnye-zhalyuzi/,200,/zhalyuzi-i-solncezashhita/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/intelio-slide/,200,/razdvizhnye-sistemy/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/komplektuyushhie/,200,/tehnologii/furnitura/,301,Консолидация комплектующих,pending
+main,https://www.bosforkmv.ru/komplektuyushhie-obs/,200,/tehnologii/furnitura/,301,Консолидация комплектующих,pending
+main,https://www.bosforkmv.ru/kontakty/,200,/kontakty/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/mnogostupenchatoe-mikroprovetrivani/,200,/tehnologii/furnitura/,301,Консолидация комплектующих,pending
+main,https://www.bosforkmv.ru/montazh/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/moskitnaya-setka-2/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/nyanya-obs/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/obratnaya-svyaz/,200,/kontakty/,301,Формы консолидируются,pending
+main,https://www.bosforkmv.ru/okna/,200,/pvh-okna/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/okna/rehau/,200,/sistemy/rehau/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/o-kompani/,200,/o-kompanii/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/okonnaya-nyanya/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/okonnyj-servis/,200,/okonnyj-servis/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/otkosy-pvh/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/platezhi/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/platezhi/rassrochka/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/podokonniki-danke/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/podokonniki-moeller/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/portaly/,200,/razdvizhnye-sistemy/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/pravovaya-informacziya/,200,/pravovaya-informacziya/,301,Сохранить юридическую страницу,pending
+main,https://www.bosforkmv.ru/psk-portaly/,200,/razdvizhnye-sistemy/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/rehau-blitz-new-60-mm/,200,/sistemy/rehau/,301,Консолидация устаревших продуктовых серий,pending
+main,https://www.bosforkmv.ru/rehau-delight-design-70-mm/,200,/sistemy/rehau/,301,Консолидация устаревших продуктовых серий,pending
+main,https://www.bosforkmv.ru/rehau-grazio-70-mm/,200,/sistemy/rehau/,301,Консолидация устаревших продуктовых серий,pending
+main,https://www.bosforkmv.ru/rehau-intelio-80-mm/,200,/sistemy/rehau/,301,Консолидация устаревших продуктовых серий,pending
+main,https://www.bosforkmv.ru/rehau-thermo-design-60-mm/,200,/sistemy/rehau/,301,Консолидация устаревших продуктовых серий,pending
+main,https://www.bosforkmv.ru/reshili-pomenyat-okna-s-chego-nachat/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/rukovodstvo-po-ekspluataczii-bosfor/,200,/okonnyj-servis/,301,Сервис и гарантия,pending
+main,https://www.bosforkmv.ru/rulon/,200,/zhalyuzi-i-solncezashhita/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/rulonnye-shtory/,200,/zhalyuzi-i-solncezashhita/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/siegenia-obs/,200,REVIEW,REVIEW,Требуется ручное решение,pending
+main,https://www.bosforkmv.ru/steklopakety/,200,/tehnologii/steklopakety/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/vakansii/,200,/vakansii/,301,Сохранить при наличии актуальных вакансий,pending
+main,https://www.bosforkmv.ru/vertikalnye-zhalyuzi/,200,/zhalyuzi-i-solncezashhita/,301,Точный тематический перенос,pending
+main,https://www.bosforkmv.ru/zayavka/,200,/kontakty/,301,Формы консолидируются,pending
+main,https://www.bosforkmv.ru/zhalyuzi/,200,/zhalyuzi-i-solncezashhita/,301,Точный тематический перенос,pending

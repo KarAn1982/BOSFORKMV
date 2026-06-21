@@ -1,0 +1,50 @@
+{
+  "version": "2026-06-19",
+  "canonical_entity_id": "https://www.bosforkmv.ru/#organization",
+  "approval_status": "owner_confirmation_required",
+  "nap": {
+    "brand_name": {
+      "value": "БОСФОР",
+      "status": "published_current_site"
+    },
+    "legal_name": {
+      "value": null,
+      "status": "required"
+    },
+    "primary_phone": {
+      "value": "8 800 101-17-41",
+      "status": "conflict",
+      "note": "На действующем сайте также встречается 8 800 301-48-98"
+    },
+    "email": {
+      "value": "info@bosforkmv.ru",
+      "status": "published_current_site"
+    },
+    "primary_address": {
+      "value": "Россия, Ставропольский край, Пятигорск, улица Ермолова, строение 14",
+      "status": "published_current_site"
+    },
+    "working_hours": {
+      "value": "Пн–пт 08:00–17:00; сб 09:00–15:00",
+      "status": "published_current_site"
+    },
+    "website": {
+      "value": "https://www.bosforkmv.ru/",
+      "status": "confirmed_domain"
+    },
+    "service_regions": {
+      "value": [],
+      "status": "required"
+    },
+    "production_address": {
+      "value": null,
+      "status": "required"
+    },
+    "coordinates": {
+      "value": null,
+      "status": "required"
+    }
+  },
+  "publication_rule": "Do not synchronize external profiles until all required fields and the phone conflict are owner-approved."
+}
+

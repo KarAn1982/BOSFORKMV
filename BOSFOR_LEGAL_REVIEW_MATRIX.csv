@@ -1,0 +1,20 @@
+area,question,current_state,required_evidence,owner,status
+operator,Полное юридическое наименование оператора,placeholder,ЕГРЮЛ/карточка компании,Юрист,open
+operator,ИНН ОГРН и юридический адрес,missing,Реквизиты компании,Юрист,open
+operator,Ответственный за персональные данные,missing,Приказ или назначение,Юрист,open
+contacts,Адрес и email для запросов субъектов,partially_published,Письменное подтверждение,Владелец,open
+processing,Фактические цели обработки,template,Карта процессов CRM/продаж,Юрист,open
+processing,Правовые основания для каждой цели,template,Юридическое заключение,Юрист,open
+processors,CRM хостинг почта аналитика антиспам и storage,not_selected,Договоры и DPA,IT+Юрист,open
+retention,Сроки хранения заявок файлов и логов,missing,Retention policy,Юрист,open
+deletion,Процесс удаления и отзыва согласия,template,SOP и ответственный,Юрист,open
+cross_border,Есть ли трансграничная передача,unknown,Архитектура сервисов,IT+Юрист,open
+analytics,Основание и режим работы Метрики/GA4,not_configured,Consent/cookie decision,Юрист,open
+marketing,Отдельное согласие на маркетинговые сообщения,not_implemented,Решение по рассылкам,Маркетинг+Юрист,open
+files,Конфиденциальность проектной документации,prototype_only,Storage/ACL/retention design,IT+Юрист,open
+security,Реагирование на инциденты и утечки,missing,Incident response plan,IT+Юрист,open
+projects,Права на фото названия заказчиков и объекты,unverified,Release/договор/письмо,Юрист+Продажи,open
+people,Согласия сотрудников и клиентов на изображения,missing,Model release,HR+Юрист,open
+trademarks,Права на логотипы производителей и клиентов,unverified,Trademark permission,Юрист,open
+claims,Награды отзывы мощности и клиентские цифры,unverified,Первичные документы и методика,Владелец+Юрист,open
+

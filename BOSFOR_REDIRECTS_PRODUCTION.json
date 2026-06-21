@@ -1,0 +1,769 @@
+{
+  "generated_at": "2026-06-19",
+  "redirects": [
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/",
+      "note": "Главная"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/",
+      "source_query": "post_type=popup&p=668",
+      "status": 301,
+      "destination": "/",
+      "note": "Главная"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/",
+      "source_query": "post_type=popup&p=669",
+      "status": 301,
+      "destination": "/",
+      "note": "Главная"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/71-2/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Слабый или служебный URL"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/7-800-350-97-15/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Слабый или служебный URL"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/alyuminievye-okna/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/alyuminievye-okna/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/balkony/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/alyuminievye-okna/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/dveri/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/alyuminievye-dveri/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/fasady/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/fasady-i-vitrazhi/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/kontakty/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/kontakty/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/layout_type/layout/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Технический URL конструктора"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/layout_type/module/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Технический URL конструктора"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/layout_type/row/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Технический URL конструктора"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/layout_type/section/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Технический URL конструктора"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/module_width/regular/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Технический URL конструктора"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/montazh-ventiliruemyh-fasadov/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/fasady-i-vitrazhi/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/nestandartnye-okna-3/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/alyuminievye-okna/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/o-kompanii/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/o-kompanii/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/peregorodki/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/alyuminievye-okna/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/pravovaya-informacziya/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/privacy/",
+      "note": "Сохранить юридическую страницу"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/produkcziya/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/alyuminievye-okna/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/razdvizhnye-dveri/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/portalnye-sistemy/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/resheniya/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/zastrojshhikam/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/scope/global/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Технический URL конструктора"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/scope/not_global/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Технический URL конструктора"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/terrasy-verandy-besedki/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/chastnym-klientam/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/type/link/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Технический URL конструктора"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/uslugi/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/zastrojshhikam/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/ventiliruemye-fasady/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/fasady-i-vitrazhi/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/zenitnye-fonari/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/fasady-i-vitrazhi/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "b2b",
+      "source_host": "bosfor-b2b.web-booster.ru",
+      "source_path": "/zimnie-sady/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/chastnym-klientam/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/",
+      "source_query": "",
+      "status": 0,
+      "destination": null,
+      "note": "Canonical URL сохраняется без редиректа"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/aksessuary/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/solntsezashchita/",
+      "note": "Консолидация аксессуаров"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/alyuminievye-sistemy/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/alyuminievye-okna/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/alyuminievye-sistemy/alyuminievye-dveri/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/alyuminievye-dveri/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/alyuminievye-sistemy/alyuminievye-okna/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/alyuminievye-okna/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/alyuminievye-sistemy/fasady-i-vitrazhi/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/fasady-i-vitrazhi/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/alyuminievye-sistemy/razdvizhnye-dveri/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/portalnye-sistemy/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/bessrochnaya-garantiya/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/kontakty/",
+      "note": "Сервис и гарантия"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/category/post/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Слабый или служебный URL"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/dopolnitelnoe-oborudovanie/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/partnery/",
+      "note": "Комплектующие"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/ecoline-obs/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Устаревшая продуктовая страница"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/furnitura-3/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/partnery/",
+      "note": "Консолидация комплектующих"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/furnitura-obs/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/partnery/",
+      "note": "Консолидация комплектующих"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/garantiya-2/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/kontakty/",
+      "note": "Сервис и гарантия"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/garantiya-3/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/kontakty/",
+      "note": "Сервис и гарантия"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/gorizontalnye-zhalyuzi/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/solntsezashchita/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/intelio-slide/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/portalnye-sistemy/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/komplektuyushhie/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/partnery/",
+      "note": "Консолидация комплектующих"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/komplektuyushhie-obs/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/partnery/",
+      "note": "Консолидация комплектующих"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/kontakty/",
+      "source_query": "",
+      "status": 0,
+      "destination": null,
+      "note": "Canonical URL сохраняется без редиректа"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/mnogostupenchatoe-mikroprovetrivani/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/partnery/",
+      "note": "Консолидация комплектующих"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/montazh/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/polnyj-tsikl/",
+      "note": "Процесс монтажа"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/moskitnaya-setka-2/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Аксессуары для окон"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/nyanya-obs/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Безопасность окон"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/obratnaya-svyaz/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/kontakty/",
+      "note": "Формы консолидируются"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/okna/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/okna/rehau/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/o-kompani/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/o-kompanii/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/okonnaya-nyanya/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Безопасность окон"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/okonnyj-servis/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/kontakty/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/otkosy-pvh/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Комплектация ПВХ-окон"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/platezhi/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Финансовые условия требуют актуального предложения"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/platezhi/rassrochka/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Рассрочка требует актуального предложения"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/podokonniki-danke/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Комплектация ПВХ-окон"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/podokonniki-moeller/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Комплектация ПВХ-окон"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/portaly/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/portalnye-sistemy/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/pravovaya-informacziya/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/privacy/",
+      "note": "Сохранить юридическую страницу"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/psk-portaly/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/portalnye-sistemy/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/rehau-blitz-new-60-mm/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Консолидация устаревших продуктовых серий"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/rehau-delight-design-70-mm/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Консолидация устаревших продуктовых серий"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/rehau-grazio-70-mm/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Консолидация устаревших продуктовых серий"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/rehau-intelio-80-mm/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Консолидация устаревших продуктовых серий"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/rehau-thermo-design-60-mm/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/plastikovye-okna/",
+      "note": "Консолидация устаревших продуктовых серий"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/reshili-pomenyat-okna-s-chego-nachat/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/knowledge/kak-vybrat-okna-dlya-doma/",
+      "note": "Перенос в центр знаний"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/rukovodstvo-po-ekspluataczii-bosfor/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/kontakty/",
+      "note": "Сервис и гарантия"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/rulon/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/solntsezashchita/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/rulonnye-shtory/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/solntsezashchita/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/siegenia-obs/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/partnery/",
+      "note": "Страница технологии"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/steklopakety/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/partnery/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/vakansii/",
+      "source_query": "",
+      "status": 410,
+      "destination": null,
+      "note": "Нет подтверждённых вакансий"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/vertikalnye-zhalyuzi/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/solntsezashchita/",
+      "note": "Точный тематический перенос"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/zayavka/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/kontakty/",
+      "note": "Формы консолидируются"
+    },
+    {
+      "source_site": "main",
+      "source_host": "www.bosforkmv.ru",
+      "source_path": "/zhalyuzi/",
+      "source_query": "",
+      "status": 301,
+      "destination": "/solntsezashchita/",
+      "note": "Точный тематический перенос"
+    }
+  ],
+  "summary": {
+    "total": 84,
+    "redirect_301": 67,
+    "gone_410": 15,
+    "no_op": 2,
+    "errors": 0
+  },
+  "errors": []
+}

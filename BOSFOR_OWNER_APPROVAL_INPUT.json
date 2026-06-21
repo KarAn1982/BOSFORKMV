@@ -1,0 +1,204 @@
+{
+  "version": "2026-06-20",
+  "decision_statuses": [
+    "pending",
+    "approve",
+    "replace",
+    "remove"
+  ],
+  "approver": {
+    "name": null,
+    "role": null,
+    "decision_date": null
+  },
+  "nap": {
+    "legal_name": {
+      "decision": "pending",
+      "value": null,
+      "evidence": []
+    },
+    "primary_phone": {
+      "decision": "pending",
+      "value": null,
+      "conflict_resolution": null,
+      "evidence": []
+    },
+    "email": {
+      "decision": "pending",
+      "value": null,
+      "evidence": []
+    },
+    "primary_address": {
+      "decision": "pending",
+      "value": null,
+      "evidence": []
+    },
+    "production_address": {
+      "decision": "pending",
+      "value": null,
+      "evidence": []
+    },
+    "working_hours": {
+      "decision": "pending",
+      "value": null,
+      "evidence": []
+    },
+    "service_regions": {
+      "decision": "pending",
+      "value": [],
+      "evidence": []
+    },
+    "coordinates": {
+      "decision": "pending",
+      "value": null,
+      "evidence": []
+    }
+  },
+  "facts": [
+    {
+      "id": "company_founding_year",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "sales_phone",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "office_address",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "company_email",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "working_hours",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "production_location",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "sales_offices",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "satisfied_clients",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "positive_reviews",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "annual_capacity",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "golden_window_awards",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "alutech_relationship",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "alutech_w77_limits",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "alutech_sl160_limits",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "alutech_f50_limits",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "alutech_alt150_limits",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    },
+    {
+      "id": "archive_projects",
+      "decision": "pending",
+      "replacement_claim": null,
+      "evidence": []
+    }
+  ],
+  "partners": [
+    {
+      "name": "Alutech",
+      "systems_used": "pending",
+      "official_status": "pending",
+      "status_expiry": null,
+      "logo_permission": "pending",
+      "evidence": []
+    },
+    {
+      "name": "Alneo",
+      "systems_used": "pending",
+      "official_status": "pending",
+      "status_expiry": null,
+      "logo_permission": "pending",
+      "evidence": []
+    },
+    {
+      "name": "Schüco",
+      "systems_used": "pending",
+      "official_status": "pending",
+      "status_expiry": null,
+      "logo_permission": "pending",
+      "evidence": []
+    },
+    {
+      "name": "Rehau",
+      "systems_used": "pending",
+      "official_status": "pending",
+      "status_expiry": null,
+      "logo_permission": "pending",
+      "evidence": []
+    },
+    {
+      "name": "Siegenia",
+      "systems_used": "pending",
+      "official_status": "pending",
+      "status_expiry": null,
+      "logo_permission": "pending",
+      "evidence": []
+    }
+  ],
+  "publication_rule": "This file records decisions only. It never updates production content automatically."
+}

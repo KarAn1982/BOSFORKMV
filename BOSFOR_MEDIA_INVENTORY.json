@@ -1,0 +1,3892 @@
+{
+  "version": "2026-06-19",
+  "total_files": 551,
+  "category_counts": {
+    "partner_material": 200,
+    "project_source_candidate": 34,
+    "prototype_asset": 79,
+    "qa_or_derived": 131,
+    "reference_unverified": 100,
+    "unclassified": 7
+  },
+  "extension_counts": {
+    ".avif": 16,
+    ".jpeg": 5,
+    ".jpg": 169,
+    ".png": 304,
+    ".webp": 57
+  },
+  "video_count": 0,
+  "evidence_gaps": {
+    "production_originals_with_confirmed_rights": 0,
+    "team_originals_with_subject_consents": 0,
+    "installation_originals_with_site_permission": 0,
+    "production_or_installation_video": 0
+  },
+  "publication_rules": [
+    "reference_unverified cannot be presented as a Bosfor project or facility",
+    "partner_material requires trademark and publication permission",
+    "project_source_candidate requires object/client rights confirmation",
+    "qa_or_derived is never a production source",
+    "AI-generated people or production scenes cannot be used as evidence"
+  ],
+  "files": [
+    {
+      "path": "5bb4c796de81648748b57907ba94c607.jpg",
+      "extension": ".jpg",
+      "bytes": 136511,
+      "sha256": "21954da1c50525d26b497a66b2f0d21aa0626772e4f4298ebf7eed19aa9a7ea8",
+      "category": "unclassified"
+    },
+    {
+      "path": "alutech logo.jpg",
+      "extension": ".jpg",
+      "bytes": 62449,
+      "sha256": "f737eb4222bc1423e79526cb8b8f8139b1e1d2447524bdecc31e5e4a71bd8dba",
+      "category": "unclassified"
+    },
+    {
+      "path": "png-transparent-schuco-hd-logo.png",
+      "extension": ".png",
+      "bytes": 5342,
+      "sha256": "13e34cc478b04d78cb5948d8f9aca052075bfad9a6821607052d1677ea973448",
+      "category": "unclassified"
+    },
+    {
+      "path": "png-transparent-window-siegenia-door-facade-business-window-furniture-text-logo.png",
+      "extension": ".png",
+      "bytes": 8194,
+      "sha256": "2c4a0c9a3afbf70c0875c0752ccc01ad94afded248ea42541388cdd296881f47",
+      "category": "unclassified"
+    },
+    {
+      "path": "rehau logo.jpg",
+      "extension": ".jpg",
+      "bytes": 15210,
+      "sha256": "52d66b45a8f0963203c296f41d2a522a9c0db6fc654dcf29e1e9197a9e76eaca",
+      "category": "unclassified"
+    },
+    {
+      "path": "Schüco_2011_logo.svg_.png",
+      "extension": ".png",
+      "bytes": 5156,
+      "sha256": "5ca620465033f933a5c1721b48badae4136c78fd3392d3908d3d2d9e2868037c",
+      "category": "unclassified"
+    },
+    {
+      "path": "алнео лого.png",
+      "extension": ".png",
+      "bytes": 100962,
+      "sha256": "3c02715f8208f5ae5cadc2a45ba61d82ead7d60cb5e3f7ba13a7d4e4f9b8ad69",
+      "category": "unclassified"
+    },
+    {
+      "path": "asset_contact_sheets\\Links.jpg",
+      "extension": ".jpg",
+      "bytes": 1998254,
+      "sha256": "0cb7d539229d2f32d7841d1a1765254d4cd855a2f1ebea46d54cb0cdaa59ff1e",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "asset_contact_sheets\\Mantera_Resort.jpg",
+      "extension": ".jpg",
+      "bytes": 119945,
+      "sha256": "dd48a922b3c336b1b38f9c6d432b53f9ca438ed0bf27252a2960777939098242",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "asset_contact_sheets\\Marriott.jpg",
+      "extension": ".jpg",
+      "bytes": 163121,
+      "sha256": "5cce7427dfa6e95eb6597c8160847ed4f07997d4ed9dcb7fb4aec95df44ac140",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "asset_contact_sheets\\ГМУ_Им_АДмирала_ФФ_Ушакова.jpg",
+      "extension": ".jpg",
+      "bytes": 95020,
+      "sha256": "ea6a1de40a529014047794dfec768135c0ba966da2a1fb9496e8bea8223482d6",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "asset_contact_sheets\\терос.jpg",
+      "extension": ".jpg",
+      "bytes": 106181,
+      "sha256": "69aee225a0e6fb8ae028879a3214e818da4fa60e1e2f93697b2f2f4bbf8129a3",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "asset_contact_sheets\\частный_дом_пятигорск.jpg",
+      "extension": ".jpg",
+      "bytes": 123530,
+      "sha256": "f81c4613bf9370a96e7af7c2ac790b256730036445f256f92dfd875fa65a6c9a",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "asset_contact_sheets\\ЧД_Пятигорск_2.jpg",
+      "extension": ".jpg",
+      "bytes": 42867,
+      "sha256": "602089445d88c61c7fe0e94d5ef4d64095ec797206f787756ba4ad5f987a5241",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "context_sources\\catalog_preview_contact_sheet.png",
+      "extension": ".png",
+      "bytes": 751084,
+      "sha256": "6c284c95753543ecbe9c661cb7e52055501e895276d08a07a51b7f9bd0e66c63",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "Links\\-__4.jpg",
+      "extension": ".jpg",
+      "bytes": 1735324,
+      "sha256": "0b997861ba169bea3e17f1a8ec3654bc09e057e58ad514b66e11c74cb59e7e0c",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\00001.jpg",
+      "extension": ".jpg",
+      "bytes": 25743922,
+      "sha256": "8a4b1397763f44460f745e5e7a9ad82a0110521805951ba196b94686c3b37621",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\0003.jpeg",
+      "extension": ".jpeg",
+      "bytes": 1447443,
+      "sha256": "350002ce7122862026d7bdb191f565bc8e44e0f5699e93c04b9eb03d7650a094",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\0012.jpeg",
+      "extension": ".jpeg",
+      "bytes": 1253042,
+      "sha256": "16353cbd1649e77fad5f29da44d8fa6c4532995bfa66805843e3257ce7ecd8f8",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\002_4149_2.jpg",
+      "extension": ".jpg",
+      "bytes": 10667917,
+      "sha256": "cfe13f628790a4046b7c1db6a0bd8f5916c155d8b0f11592b9be12ab18e37949",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\002_4231_2.jpg",
+      "extension": ".jpg",
+      "bytes": 10939046,
+      "sha256": "05e1d42a17f44b49b16fe9d4eab82d4787160ef95226e8806ec35050bebb4bcb",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\0162afa20f98372c9e403c19f6bd036f.jpg",
+      "extension": ".jpg",
+      "bytes": 1204930,
+      "sha256": "a314e2a43a622a002b11d7a9c456767e97f65ba7c7211584ed7ea779bde8da52",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\0I1A2154_2.jpg",
+      "extension": ".jpg",
+      "bytes": 12486477,
+      "sha256": "f71e5bab255b96a03cde772d056098f1c210c05685e0a0f2c5ca84d101d95fa5",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\0I1A2178-восстановлено.jpg",
+      "extension": ".jpg",
+      "bytes": 12479917,
+      "sha256": "e655a8755bf5d8a296cf77bd036df2d3f7cf5a1ffd87c5ffd8b7e6f118a14cf8",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\1(9).jpg",
+      "extension": ".jpg",
+      "bytes": 1932419,
+      "sha256": "7df6d35f325a711028a9ab60e36095ea6c9d49a00c5bea350f19cb05700c5ead",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\11.jpg",
+      "extension": ".jpg",
+      "bytes": 699908,
+      "sha256": "9439bc58086f291a57adc6450ac6420fb0adcdd5dc31e7f9c78de57da97b6b47",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\134eb3c1d3435ec8cc6a131021d226d7-1-2048x1358.jpg",
+      "extension": ".jpg",
+      "bytes": 1818548,
+      "sha256": "3a43061120f856541f388355d388676f113466b754c703ba59c516111adc6a99",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\1474803_original.jpg",
+      "extension": ".jpg",
+      "bytes": 7184801,
+      "sha256": "cdb67611ac8c7196de1d8f24b982d2ffb8d7745fb1645f86f10aec99181f0afc",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\14991028_1216275868460813_3117839851033069526_o.jpg",
+      "extension": ".jpg",
+      "bytes": 3214710,
+      "sha256": "9434f11144fc9a60992d8611128b5f170119d49f541d6d91e7ce25d724fdbade",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\15-FIELDVIEW-VIEW-OVER-FIELD-2375-0472-f.1551109003.6166.jpg",
+      "extension": ".jpg",
+      "bytes": 2188415,
+      "sha256": "0b11988ee0df23fa5a4b5f5edb19d89c830dcdd3b462252683fd6ff996d32664",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\1558966975attachment_1.png",
+      "extension": ".png",
+      "bytes": 1151527,
+      "sha256": "7dc290daf4a0d48d287efcbc244d583bfd6f0fb57e70a57e70bf88e936439a5a",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\1a73c8_639e66181f6f4.jpg",
+      "extension": ".jpg",
+      "bytes": 2742193,
+      "sha256": "a3f49436096eb8a759053fa501bbeec84a8608548944a9e3ad2b4747f4462839",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\2-3.jpg",
+      "extension": ".jpg",
+      "bytes": 2840815,
+      "sha256": "f395b359945ca2d9610d74a301c8bb9bea7a38ae77e04fd4865705edf6704f0f",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\2007_37.jpg",
+      "extension": ".jpg",
+      "bytes": 1871836,
+      "sha256": "9066eead8aa9f852bd5976c3d5e06cd988f07eee40e2bf320fa8a845c468d1a8",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\2017-11-03_8252.jpg",
+      "extension": ".jpg",
+      "bytes": 13717504,
+      "sha256": "7c5383b43d59ceef2a0df3bfa7c57cbc07699d8db5ce308e0118e9f59d809ca9",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\2017-11-03_8362.jpg",
+      "extension": ".jpg",
+      "bytes": 13216361,
+      "sha256": "ee86646db43bf8bb07bb5ba647e9ac8781e0795e11309f7c3a366e84d4b95cd1",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\20813604px1920x1280 (1).jpg",
+      "extension": ".jpg",
+      "bytes": 1731893,
+      "sha256": "4f11e56848d9b7d091b47476c7a9df4e2a09fcde29e07abc5ede5eae58129ad3",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\230-Vic-4.jpg",
+      "extension": ".jpg",
+      "bytes": 5245898,
+      "sha256": "6b2f6ddc2c5fb798f921047148352bcabb843ed9504b1be88dd57dd5f55aa20b",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\298_amb_43_serie_chalk_smoke_80x160-1280x1024.jpg",
+      "extension": ".jpg",
+      "bytes": 939775,
+      "sha256": "b1a52f03b15b41e0dc40dd5e119591d6f5badd3b0c96b327b3c96c193e51a4fd",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\2e1abee06be4bad1e5ccc3067830a8dd.jpg",
+      "extension": ".jpg",
+      "bytes": 5163490,
+      "sha256": "b40ab5a517318ccfcc4cd8bc59cddbf0b96317e26cc744dbca42e324d1583e24",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\385e4dcd8ef49fe4fa97a31dd34f9f52.jpg",
+      "extension": ".jpg",
+      "bytes": 1507191,
+      "sha256": "d0f4c4dc01c629eea0e484fee3c6cd2be7f32cbdcffe232e7b02175a4ca5d73b",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\3989.jpg",
+      "extension": ".jpg",
+      "bytes": 8376669,
+      "sha256": "3b7cfe79622987c8318979a33393496a58dc7d97e36053851fcea91812648ddc",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\581db73369dc3f2d508d23fa5e097995.jpg",
+      "extension": ".jpg",
+      "bytes": 1443755,
+      "sha256": "792a41534999b2162c4fc3dc33fb34bd6e6a0c865405935bf09abf8314631b3a",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\5ea4f00725a418d26ee915385f83949b.jpg",
+      "extension": ".jpg",
+      "bytes": 7952330,
+      "sha256": "da84f533b0dfd1b576e2ff39741ebe0026cdb0f8dfb4ff66156c4e485b528286",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\5_SCH-CO-Parametric-Sistem-pic3.jpg",
+      "extension": ".jpg",
+      "bytes": 4182803,
+      "sha256": "4faa967c89da676dbe14a0dc7aa11a9efa716b79c59485bee4305915dc23f602",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\777777777777777-2000x1200.jpg",
+      "extension": ".jpg",
+      "bytes": 1670619,
+      "sha256": "7f5b4489d8c650ebf2590fa95059ca32811510108d797eaa7cca83fac41e92fb",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\78ebcb69469793.5b82d5462790b.jpg",
+      "extension": ".jpg",
+      "bytes": 2217015,
+      "sha256": "6a8044e428761834339ebc1591eafad17cecab4fae538c66cfabc663844fe426",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\810_4171.jpg",
+      "extension": ".jpg",
+      "bytes": 12816216,
+      "sha256": "86c7696c8732255b8fff4b1a47de251ef32cf9b1692adf7e35bcf9f89dc3a6d6",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\81e4558a7f64838f6f1bca174bad0847.jpg",
+      "extension": ".jpg",
+      "bytes": 948416,
+      "sha256": "204b799c7d1d42a864e456a478b376679244d2e5a4a0e05278f749225f7e2925",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\93dd40c8-2325a24-02.jpg",
+      "extension": ".jpg",
+      "bytes": 2005189,
+      "sha256": "132e959bb723429b91807a80ae1f7f7e668dad841eebd52f7c76aacb5123aefe",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\ads_80_fr_30_60_galley.jpg",
+      "extension": ".jpg",
+      "bytes": 846539,
+      "sha256": "bc17483338cbeaab55696791c9508c7d45fcf4bd653cfc61a2c4cd809d0cf51c",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\al45_door.jpg",
+      "extension": ".jpg",
+      "bytes": 639584,
+      "sha256": "afe55a579b0bdea5ea8ba69c184f02f38030579b19701a961a33a3b808407166",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\ALR45_Post.png",
+      "extension": ".png",
+      "bytes": 4274649,
+      "sha256": "ac96bc9748934a32c4762acba5a5a1411c85dd4c7125fe649bc16c2346893eb4",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\aluminyum_door_.jpg",
+      "extension": ".jpg",
+      "bytes": 1428653,
+      "sha256": "25f027cb71827c1ca2abcad8d33dd4ee3a8f9112583fc8cd95036fb7c9f3a2b8",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\architects-use-trigonometry_f5d1cf5e9de131cb.jpg",
+      "extension": ".jpg",
+      "bytes": 1123742,
+      "sha256": "203eb229226aa2ced3a8e9863eaaad07ac04d33c12464911708c5b75146d57ce",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\BAS-automatik-tuer-Eingang-Slider.jpg",
+      "extension": ".jpg",
+      "bytes": 1585030,
+      "sha256": "8b6c3d05c10a5ba60a356427747d113c198e46db2b47162f4128fe0716821dfb",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\basic-10.jpg",
+      "extension": ".jpg",
+      "bytes": 2591216,
+      "sha256": "bcfe38a1b4640d365cdf2a1851ce0c7e9880ed0591d8fd49cf7ddf09e9b22090",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\Construction-Specifier-Dec.-2013-Spring-Hill-2-1536x1028.jpg",
+      "extension": ".jpg",
+      "bytes": 1933969,
+      "sha256": "17731011fb49e79c9fb30d990a5c9d96fa9a47d757265441fbc1625ce322391c",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\Cyber_Valley_Visualisierung_Eingang.png",
+      "extension": ".png",
+      "bytes": 3771510,
+      "sha256": "d7481d2c224964da8ec81c9a100e77e0380a3f94bff49a9d3cb2563e53970ae0",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\dsc0393353F8AB35-CFF9-D08B-FC75-9CDE2BAA3E2B.jpg",
+      "extension": ".jpg",
+      "bytes": 8422710,
+      "sha256": "676ede7c0a28b08dd47b188b3a0f27434cc469cb6b50909c73c490453c3de56e",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\DSC04979.jpg",
+      "extension": ".jpg",
+      "bytes": 1805729,
+      "sha256": "f178bc66a8a37aa0152a05a05807b17cc752852ad53233553e0e154f09ef3adf",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\DSC_0043.jpg",
+      "extension": ".jpg",
+      "bytes": 3609898,
+      "sha256": "e605500e00995a3f8fdf1b032d491e850881bfbd33f3a370426362d0570e86fc",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\DSC_0194_2.jpg",
+      "extension": ".jpg",
+      "bytes": 10848976,
+      "sha256": "8d7f069d0a41d1c83508931405676a7de8f43d4c9ee254d5ceb57c9548f5ac5a",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\DSC_0973.jpg",
+      "extension": ".jpg",
+      "bytes": 2843544,
+      "sha256": "f172f2eef705e1abd05084fc78fa900803f0b63da0f8d18e6ca9b847bdba1a51",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\DSC_2011.JPG",
+      "extension": ".jpg",
+      "bytes": 12929587,
+      "sha256": "5d55f0ee76932708648861dd27503dfffa92d98073e000aaeab5b523f97cd7ce",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\edbfb9591da659cc3d894a1173965da0.jpeg",
+      "extension": ".jpeg",
+      "bytes": 2537238,
+      "sha256": "ef08943f3cf2453d47152522d48a24b1445c970a3a0c3fc9fbac0eb8c646030e",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\ENTBwh_pzEI0k4QiP63XIfvQFIhe0AyNRk4wvZZhObRtUdN8K3k1nba_q40hjd-NQFvhnU4YK9jIWOJcG7fQ0D9IUCYwXeBRfnL-fka8Y82M7DJbJdtXkFWTaNqHqb9nVtHwcE53DE4OEKgEUlIHoQ==.jpg",
+      "extension": ".jpg",
+      "bytes": 2903481,
+      "sha256": "8406e8dd8aa9abc762ada88c177192f135ef7c7cbba95b57b225b3a99caf2059",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\eos_6d_0357_2854.jpg",
+      "extension": ".jpg",
+      "bytes": 2036941,
+      "sha256": "f350fc51b44d5e026f173f6720ca4cd24b901165a0e59add35e93ebe35bd3a1c",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\g16.jpg",
+      "extension": ".jpg",
+      "bytes": 5245903,
+      "sha256": "90a3f3c4c81e0224fefa541cd82cbc7dc18256f22365114b94a9237f6f2c430e",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\generic-157362719-crop-58b59d943df78cdcd87520ea.jpg",
+      "extension": ".jpg",
+      "bytes": 12859185,
+      "sha256": "d01f5fc5089d1a0e73e59b3c2c1d0d15856da766bdcb9af97a1893146a517f5e",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\glass-roof.jpg",
+      "extension": ".jpg",
+      "bytes": 2606210,
+      "sha256": "06db3a2b5755a29d6b0e2742f01fcd136e64d668228e51b9b1b0d029372ef3a5",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\header_innovationen_festo-1.jpg",
+      "extension": ".jpg",
+      "bytes": 3408655,
+      "sha256": "d4195932ddc28cdea669b8f49506cd3f3faf02340ef20efc0436f0ba21b41b0b",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_0278.jpg",
+      "extension": ".jpg",
+      "bytes": 14672777,
+      "sha256": "5ab72d04838b16bcc890703a91fa430c4bd12f380eaacc6c5ae2dd78a65c8fa4",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_0513.JPG",
+      "extension": ".jpg",
+      "bytes": 21976315,
+      "sha256": "73b87f240f23cc2e2f758780b576a2e93f66f2de65f92eac4d234791aba03b4d",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_3676.jpg",
+      "extension": ".jpg",
+      "bytes": 21517145,
+      "sha256": "182c268e5726e9c6bf00f9f7ce159f63fff41c556c2fdaeac2d333a095cd59f5",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_3701.jpg",
+      "extension": ".jpg",
+      "bytes": 13672132,
+      "sha256": "036b1e9781639256686dabf8e8ba6bf79a0c54f3a1f49c6885c3eaf7c606ffcb",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_3765.jpg",
+      "extension": ".jpg",
+      "bytes": 14742733,
+      "sha256": "3c090c67a623b2cf9a301a1d86104963403114ee32d8eac0cd49db1084d4a22b",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_5328.jpg",
+      "extension": ".jpg",
+      "bytes": 1945581,
+      "sha256": "883137ebe17c156348d9cb75b65913580dd4eb845d3786a6e7d8fdc701e47dfa",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_7650.jpg",
+      "extension": ".jpg",
+      "bytes": 15274789,
+      "sha256": "84034f27ce039a6332db7847b65e8840cfc1523d43ef386c34568475b2efe88b",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_7650_1.jpg",
+      "extension": ".jpg",
+      "bytes": 14543765,
+      "sha256": "d07ffb3557427af6c27998f6b2a2fb13d2cf0d5ac926d6d2ba3229d13cc26008",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_7685.jpg",
+      "extension": ".jpg",
+      "bytes": 15514738,
+      "sha256": "353152f0da4996b047b8a56e52eca6e447692aa436a2b9655e821df3cd8cb9ee",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_7768.jpg",
+      "extension": ".jpg",
+      "bytes": 15206809,
+      "sha256": "9b77d9960be43d4802c406b3668b8930a6469f026edf09cd661237efd519c08a",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_7772.jpg",
+      "extension": ".jpg",
+      "bytes": 17485964,
+      "sha256": "30d1e73abf3440d3e6834bd71ad404d5dad19f57dc76e3dbda71ecf7d3486b04",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\IMG_7918.jpg",
+      "extension": ".jpg",
+      "bytes": 13298315,
+      "sha256": "c5d89845096ff349ea0c9b5d14ae88e6a3a7f2801f0118e900960b0f9e40df6f",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\iStock-1129638565-scaled.jpg",
+      "extension": ".jpg",
+      "bytes": 2272353,
+      "sha256": "feefab040d9302467b0a54da976e140e3d61de216b7492a6cbddaa7563e9acbf",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\joel-filipe-227420.jpg",
+      "extension": ".jpg",
+      "bytes": 3039412,
+      "sha256": "d7466147b0d0a4263f2da902dd953fa3150f95ce8fb2e8381f7e87848d543e1c",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\kislovodsk_01.jpg",
+      "extension": ".jpg",
+      "bytes": 2128288,
+      "sha256": "8f6d7e6eb23a131409bc1ef6fd31cb95efad77694122bf5e263951222ebeca1a",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\kislovodsk_2.jpg",
+      "extension": ".jpg",
+      "bytes": 9759303,
+      "sha256": "eaa422fe31e5db658a86ccb8db003b5700487abdee079105d9531e54f99b166a",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\medium.jpg",
+      "extension": ".jpg",
+      "bytes": 1487598,
+      "sha256": "6e1b386f62c6f5f58dc5152b6bd58a5f3080d3c83767bb47bb0003e397085737",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\mottram-rooflight.jpg",
+      "extension": ".jpg",
+      "bytes": 1250218,
+      "sha256": "2ddd2dcfae41c14a2c250f637a0ac25370e01d628ab96b0e6a8230fd96523701",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\nebug(2)__s3nwf6t.jpg",
+      "extension": ".jpg",
+      "bytes": 2167421,
+      "sha256": "97605785410ad6a5ff9744b1d85cd8ebf855c283882603dd1aa2d8e5f3a2cb66",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\octavian-rosca-366885-unsplash.jpg",
+      "extension": ".jpg",
+      "bytes": 5711065,
+      "sha256": "e13342bbfad89673cf434a941de6b59dd6aedf66d6dc22918c11e85478154749",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\P7078972.JPG",
+      "extension": ".jpg",
+      "bytes": 7161386,
+      "sha256": "46fa04082736d80f8b7a8f131d8047a2e75703f6c1706dedfda9a7ed42ca5eb6",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\ratgeber-moderner-wintergarten-1.jpg",
+      "extension": ".jpg",
+      "bytes": 1967029,
+      "sha256": "686194d02b1b4ea0a887c46eee3d016f0f30331f648b2aa65c84f576323a6fd2",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\S171026145.jpg",
+      "extension": ".jpg",
+      "bytes": 3308161,
+      "sha256": "520299337d88fbe587f1ba20fdac04c05c5f933183d6a26e5a2d8d1e0638aa0a",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\Servico-Glazing-1920x1080.jpg",
+      "extension": ".jpg",
+      "bytes": 1263134,
+      "sha256": "57d15c4c17606571fe8675c8fa4c6ae26a334b4dd490ca97fb3716ebba25439a",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\slaideris.jpg",
+      "extension": ".jpg",
+      "bytes": 2328782,
+      "sha256": "4a1414faf24cd05129f3ccf136aac758eb3b85aebea9013156bb35b2fa025c6f",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\slaideris.png",
+      "extension": ".png",
+      "bytes": 2124333,
+      "sha256": "633a96da083a6db7fef8d3dd62d3280009b2f599ab2564ec71591a669116c5df",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\source_img.jpg",
+      "extension": ".jpg",
+      "bytes": 7759291,
+      "sha256": "7f54d22cd7a580581f3be6c362e10478c4c0456fad5c98431a89f59f8d1d5a86",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\standart-estima-2.jpg",
+      "extension": ".jpg",
+      "bytes": 2146111,
+      "sha256": "1e0de679dd1f983f68e1df9c126f3b4c97f2ae8b0370d250810f248bed9c3e43",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\stroeher-object-3152-rotrost-vf-08-1600x1200.jpg",
+      "extension": ".jpg",
+      "bytes": 2704427,
+      "sha256": "2d2e8e5cb2ec51c840a97ac79f62cf08d9134c7e089a370d26f7d0332daf63fc",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\the-culpeper-rooftop-bar-restaurant-redonline.jpg",
+      "extension": ".jpg",
+      "bytes": 2464505,
+      "sha256": "3fa53ce3a3a1093ec4d1c0c95b1a0ce6793aa98e535ecd979c21b07fd72a2673",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\TOPo241W.jpg",
+      "extension": ".jpg",
+      "bytes": 6376310,
+      "sha256": "d69976784e4947ac59253994a91fe065a7d64e339123944af145ff02454dde4b",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\Velux Flat Roof Windows.jpg",
+      "extension": ".jpg",
+      "bytes": 1467678,
+      "sha256": "298f0d20e907683aecc21245dfd92c932ace15482a733ce93703a5622c991e03",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\Вхідні двері Thermo65.jpg",
+      "extension": ".jpg",
+      "bytes": 404862,
+      "sha256": "8e9edd5a0319e5721b9f4a7d9e79cdaa2c063139e5239ae657abeb95f844f9cd",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\гурзуф оранжерея-1.jpg",
+      "extension": ".jpg",
+      "bytes": 1982312,
+      "sha256": "c845b275e6e5c6cd96e038fefa014d5ea77a19f274cbed881c5212e9ffd2a732",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\дверь_тепло.jpg",
+      "extension": ".jpg",
+      "bytes": 741042,
+      "sha256": "c34a417b329dad40b496fc2b21c74e198a08207ebd76992df0f0723720f62260",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\кисловодск детское кафе-1.jpg",
+      "extension": ".jpg",
+      "bytes": 17301285,
+      "sha256": "a37567f77a29ef85b8e96c08ca505b2d2efde34b9cb01714f4f10cb7b518f6fe",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\кисловодск летуаль-1.jpg",
+      "extension": ".jpg",
+      "bytes": 13897073,
+      "sha256": "8a339f2571abca0ff22ce13efe3461dc91945ede8b6b7adf63d89e2b2c884399",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\кисловодск летуаль.jpg",
+      "extension": ".jpg",
+      "bytes": 15758505,
+      "sha256": "b2b5637638d85b60f9486a100c664eaee06483025573151ef20444036402f181",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\люлька-восстановлено.jpg",
+      "extension": ".jpg",
+      "bytes": 10069787,
+      "sha256": "2f0cd1a2417ea83bbd3d844e3adecc1946f7f345f73fbff7a573dd166e74a391",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\магас-2.jpg",
+      "extension": ".jpg",
+      "bytes": 5183032,
+      "sha256": "6c4868fed0180ab845ea6346803d43ac1722c3d80984bb96db83ad0110695b4d",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\магас-3.jpg",
+      "extension": ".jpg",
+      "bytes": 5639005,
+      "sha256": "d262556379b85b3e11ebfb20c6ddfc9d126af9b0de65037dc8f711ea02c755a3",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\окно_холод.jpg",
+      "extension": ".jpg",
+      "bytes": 692415,
+      "sha256": "e2c33878dd4f60abdb9e2c6acd627328068560215a66a4abc38f7cd878648443",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Links\\Сокол-1.jpg",
+      "extension": ".jpg",
+      "bytes": 17702686,
+      "sha256": "2c7fce0c3e99548bcb44e973a974230a45aefaf0fdc33bc9915de42e4511803f",
+      "category": "reference_unverified"
+    },
+    {
+      "path": "Mantera Resort\\Mantera resort.webp",
+      "extension": ".webp",
+      "bytes": 42732,
+      "sha256": "eb3942043ef4bdd95a4fb419e6425ca33143073eec232adfd129050ac37cda7d",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Mantera Resort\\Mantera resort2.jpg",
+      "extension": ".jpg",
+      "bytes": 861336,
+      "sha256": "4ff3396f6810d5a2fe811d51de7aa699d36883fee525052a5c083f3e1658bd01",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Mantera Resort\\Mantera resort3.webp",
+      "extension": ".webp",
+      "bytes": 140250,
+      "sha256": "02d3f737635d0f5f7e9f477113df89b63bbb7d8bef54578a9b2acc6aca35c271",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Mantera Resort\\Mantera resort4.jpg",
+      "extension": ".jpg",
+      "bytes": 451167,
+      "sha256": "2b189b8eac7ed7e9766bf632b6ab11597a9793180f1c6ef41819aa27e8080cb4",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Mantera Resort\\Mantera resort5.webp",
+      "extension": ".webp",
+      "bytes": 46116,
+      "sha256": "782f1c5fa177267655f09aae56608849ded4efaeeae9f19e5c0898f8c61a5455",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Marriott\\Marriot.jpg",
+      "extension": ".jpg",
+      "bytes": 305631,
+      "sha256": "a4ed31125ef7f448f8302b11c4fdb3a26e186940cf9dee3a756d2e25d856e867",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Marriott\\Marriot3.jpg",
+      "extension": ".jpg",
+      "bytes": 159798,
+      "sha256": "ea6883a66cc6337ccc3c9b1c9b8448bd9953c1d090a370706664cee1274956e7",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Marriott\\Marriot4.jpg",
+      "extension": ".jpg",
+      "bytes": 199881,
+      "sha256": "c25ee7893b097e3fa6557b58ef38fa0384e20a2495cc2040ce5c085d8a0806f3",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Marriott\\Marriot5.jpg",
+      "extension": ".jpg",
+      "bytes": 574318,
+      "sha256": "4d5e83f25fa30c103148138f16f17568ffe0f1abdf6c813c59e3806e7cdeb674",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Marriott\\Marriott.jpg",
+      "extension": ".jpg",
+      "bytes": 106496,
+      "sha256": "39460f50b237166677312140a684eb2f3efa00ccd5a402adbcc171a3f765bfc9",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Marriott\\Marriott10.jpg",
+      "extension": ".jpg",
+      "bytes": 373435,
+      "sha256": "db9696edf095853306683f5c3862b79e8eb867ebc7976146e1ed6c76256708be",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Marriott\\Marriott6.jpg",
+      "extension": ".jpg",
+      "bytes": 113417,
+      "sha256": "2866b986137a0fd7decd009ee029b29fea6451668496095941d7c82fc376aa78",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Marriott\\Marriott7.jpg",
+      "extension": ".jpg",
+      "bytes": 453775,
+      "sha256": "9ba4a71f3ae7aa1213685b8932cb85c90f8d64af2a8c596bb8bc035702d6ea76",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Marriott\\Marriott8.png",
+      "extension": ".png",
+      "bytes": 396988,
+      "sha256": "1d0a5dab77b759efd3dd4cba49e4c56acf8eb79ba921062c4b25426ad710a9c4",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "Marriott\\Marriott9.jpg",
+      "extension": ".jpg",
+      "bytes": 278674,
+      "sha256": "602d501d9672cab34319cf28ee8aab97f82295a262b642c9fda8e6d0e56e0ee6",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "review_work\\media_contact_sheet.jpg",
+      "extension": ".jpg",
+      "bytes": 187065,
+      "sha256": "1447bab63757f4e86069dede9302cccaf1e0f36b31261659ea6a2dc484ecf4db",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "ГМУ Им АДмирала ФФ Ушакова\\ГМУ Им АДмирала ФФ Ушакова 3.webp",
+      "extension": ".webp",
+      "bytes": 177422,
+      "sha256": "e91381d33f301ab9a0613ec35ad4d89526a774839a84db3e5c257646761bfb6e",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "ГМУ Им АДмирала ФФ Ушакова\\ГМУ Им АДмирала ФФ Ушакова 4.webp",
+      "extension": ".webp",
+      "bytes": 218440,
+      "sha256": "fdfd2591588b349829e50466a2d99bbf68a3fa6551c8d98b2b4d66e97a7be56f",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "ГМУ Им АДмирала ФФ Ушакова\\ГМУ Им АДмирала ФФ Ушакова.webp",
+      "extension": ".webp",
+      "bytes": 145382,
+      "sha256": "b927bfa785fe62a644e945e6935e39ba1552746f41d203b86238969b12840550",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "ГМУ Им АДмирала ФФ Ушакова\\ГМУ Им АДмирала ФФ Ушакова2.webp",
+      "extension": ".webp",
+      "bytes": 367744,
+      "sha256": "6b015fa270dc5ef64ddc1ba2400501c9b7b237b490d8079a590d61d819750962",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "терос\\2d514afc-1ab1-4fcc-b526-13e12a0f0b2e.jpg",
+      "extension": ".jpg",
+      "bytes": 334091,
+      "sha256": "10d9a16e20d09fa3ec96611dc7e5ffddbb0f829f2c8fb7c0707ec68d400bdb5d",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "терос\\3d12297c-319b-4b18-a8b8-76a34d504f34.jpg",
+      "extension": ".jpg",
+      "bytes": 236673,
+      "sha256": "92ecae7c2eb49894b207efa30a9db512ed2bf5321581bc3c2bca996a65c1ad61",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "терос\\8c633cb0-7dd3-42c3-a748-5dc737a86643.jpg",
+      "extension": ".jpg",
+      "bytes": 370470,
+      "sha256": "7041872e99389c327a5ad35d9c5805eea9f5887d3b1edacce0875dbe86fa9a80",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "терос\\b900dbbd-edf9-4746-ba22-cb166d1ede72.jpg",
+      "extension": ".jpg",
+      "bytes": 244098,
+      "sha256": "fd8939582cd65795d2f8126335e4d82f4755e7899774d85ab82c8ff6298d63fe",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "терос\\image-23-08-24-10-57.jpg",
+      "extension": ".jpg",
+      "bytes": 489968,
+      "sha256": "0e4a3113becf951e5e203424bedc53cee887f2d7fc7d94ce90285555ba00af01",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "терос\\IMG_7896_1.jpg.webp",
+      "extension": ".webp",
+      "bytes": 423266,
+      "sha256": "ccb647c2023a7c8ffad76262a915cff18a313d3f609e7bcf6431956e22ca3fab",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "частный дом пятигорск\\896e5908-3268-431e-9b0d-c737b03d7c55.jpg",
+      "extension": ".jpg",
+      "bytes": 284158,
+      "sha256": "79638ffb09aadc5c8655cf36c142ed922286260562797a99a6d12b6080a90262",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "частный дом пятигорск\\8a420850-302e-45e5-9039-c5be5c8dd31a.jpg",
+      "extension": ".jpg",
+      "bytes": 182106,
+      "sha256": "531e7364c68791c1aab724060fc7daba675ecc44e69c98bd91a7530b31918b82",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "частный дом пятигорск\\a06c1b9f-bca4-4d10-8aee-90bccee97e25.jpg",
+      "extension": ".jpg",
+      "bytes": 232035,
+      "sha256": "4f5a06d7a332c20840f2c6117a9cb7db2a25c7611b01650baae193081a1b2a1e",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "частный дом пятигорск\\adf290ca-0cec-423e-b238-f5c3e5bb70a0.jpg",
+      "extension": ".jpg",
+      "bytes": 175230,
+      "sha256": "244754dc5243e24eaec1d1c19e1b20e3f6fd750d3f82e1cc4ddc342a9a4bcbc2",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "частный дом пятигорск\\b893204a-9bf2-4eff-92ff-fa95298ee8b9.jpg",
+      "extension": ".jpg",
+      "bytes": 235364,
+      "sha256": "e6b720947fc519204f4daddc69259e06eb68611213c7d4894c50efa2faa56f7b",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "частный дом пятигорск\\c4011ea0-5464-4445-a116-2869dc069e6b.jpg",
+      "extension": ".jpg",
+      "bytes": 313380,
+      "sha256": "8f9e2e02705aca2227d7abd9029c4c0a3148e94c521301ff5fb7c87319973cbb",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "ЧД Пятигорск 2\\677b2c73-6907-47e8-a592-799e941ea256.jpg",
+      "extension": ".jpg",
+      "bytes": 215304,
+      "sha256": "ad4089b4f4b56763dc8abb462e94ae95e59cd782813ab4e125bd63cdcbd89257",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "ЧД Пятигорск 2\\c16416cb-6ab5-4ef9-a30c-78f55cdc4620.jpg",
+      "extension": ".jpg",
+      "bytes": 306817,
+      "sha256": "54697b8ae914832a39f8bdbbf001979b4373814857bacbc14515a6708dcaa845",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "ЧД Пятигорск 2\\c185bd80-5edb-4c68-9ffa-75b55cb44109.jpg",
+      "extension": ".jpg",
+      "bytes": 278111,
+      "sha256": "415d16fdc454ad2520153e254f8ea162350291d075a0552484ab0cd2cdf4a309",
+      "category": "project_source_candidate"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image1.png",
+      "extension": ".png",
+      "bytes": 1378137,
+      "sha256": "78fec6eca4390b45540a06ab12f7299a3efb939a0cb75a3381d403c1cfc48d0e",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image10.png",
+      "extension": ".png",
+      "bytes": 5931,
+      "sha256": "a06213a6fefeb4c1a832095e1e10018d88b31baa2606eae45a0facf501625e76",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image11.png",
+      "extension": ".png",
+      "bytes": 1696,
+      "sha256": "b3dc519bb6b3451b62bb6e5bbf8809e0ce3537cd1d2ac271f9ef401b4ceafeac",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image12.png",
+      "extension": ".png",
+      "bytes": 1547758,
+      "sha256": "722290455ac6c8e1c11e2dbbc81badb5a4168292bcbdc62119ae790f600a863e",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image13.png",
+      "extension": ".png",
+      "bytes": 1622938,
+      "sha256": "7d5e1acd83280a67ab74ac94533925536b99418325101eca8e7f298c3365051e",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image14.png",
+      "extension": ".png",
+      "bytes": 1622936,
+      "sha256": "f706ce7f3ff9abc51bd45f3388b31109ea7fd93e60dd744ffff3df1518012ecd",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image2.jpg",
+      "extension": ".jpg",
+      "bytes": 43628,
+      "sha256": "2a0d5b38ac662e15a7f4085ba140ece3d7d6c3155b9b28c67a63eb2fb1bfbcae",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image3.jpg",
+      "extension": ".jpg",
+      "bytes": 68469,
+      "sha256": "e68a2c77dac156dbcdde5935b81c65370ef3de62d66625fb5e8eaf35b7737995",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image4.jpg",
+      "extension": ".jpg",
+      "bytes": 57330,
+      "sha256": "ed23c5e478b692d37d898026e9dfa2e0daa333c168817d3d4011d4ac0cf48e4d",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image5.png",
+      "extension": ".png",
+      "bytes": 2097959,
+      "sha256": "12753dda1563b8c2b9d419306def312340e834b85aee9d5fbe7978d191a9dd35",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image6.png",
+      "extension": ".png",
+      "bytes": 1533494,
+      "sha256": "3e17f6800fb4c6cebbc8eb4db688df7fb034a5650d1dad029c9e7a6ea323d718",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image7.jpeg",
+      "extension": ".jpeg",
+      "bytes": 95127,
+      "sha256": "b6adcb60f9c3fd815735539eae1d2aa7dc7dc64f1ff27971cd7ba0e41f592274",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image8.jpeg",
+      "extension": ".jpeg",
+      "bytes": 43968,
+      "sha256": "12aa7a7969fd8ca0840f58e9121290e3fcb2a24880bb4ab2d828dd7afec87d3d",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "review_work\\pptx_zip_media\\image9.png",
+      "extension": ".png",
+      "bytes": 3375,
+      "sha256": "e3a9f5490cdb0f8a92cd3874fe64f2534539300ee7a118eb7dc2e17986861c58",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "site_audit_sources\\screenshots\\b2b_desktop.png",
+      "extension": ".png",
+      "bytes": 3762628,
+      "sha256": "d388ffb06bbbfeed2cca0e7c7b8d551f343ba4902629cdda36932ad1d25b7b74",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "site_audit_sources\\screenshots\\b2b_facades_desktop.png",
+      "extension": ".png",
+      "bytes": 4108255,
+      "sha256": "636ae679f1d1136989fefe67282c9478da7f35705d1ec5b69135cf8cb04bb3e3",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "site_audit_sources\\screenshots\\b2b_facades_mobile.png",
+      "extension": ".png",
+      "bytes": 1528645,
+      "sha256": "eb9cd2aae5f00bd195fe31b98a8f4de3c083e808582755d05295d9f80638ca12",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "site_audit_sources\\screenshots\\b2b_mobile.png",
+      "extension": ".png",
+      "bytes": 1853064,
+      "sha256": "b5a4b75e012cabeeb34a37e9f8713909eb563c75f20efbd5df6a16c7b6e374d0",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "site_audit_sources\\screenshots\\main_aluminum_desktop.png",
+      "extension": ".png",
+      "bytes": 1647310,
+      "sha256": "30fd9bd76a4417a7397d61f5f31477ec9d45eae73684a81f8d92e1db32dec5ab",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "site_audit_sources\\screenshots\\main_aluminum_mobile.png",
+      "extension": ".png",
+      "bytes": 549438,
+      "sha256": "64ffd758540b4ab51092a42c0319d61b7dbabb22ce17706aac8d9df65d0237ed",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "site_audit_sources\\screenshots\\main_desktop.png",
+      "extension": ".png",
+      "bytes": 2521279,
+      "sha256": "c15239ea50794451812ba6589318f450e86a846640709a0da57ab50183f300b0",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "site_audit_sources\\screenshots\\main_mobile.png",
+      "extension": ".png",
+      "bytes": 722177,
+      "sha256": "908c86c04b57a70cb19b1af03d1d0fd7df133824f9d16e9291e0367255b5b213",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\404-desktop.png",
+      "extension": ".png",
+      "bytes": 192702,
+      "sha256": "04148ceaa083295af06666a71d9794b20fda841ba5a6ea193a7beacdbbf0c500",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\404-mobile.png",
+      "extension": ".png",
+      "bytes": 86204,
+      "sha256": "32af759c49a419357cad03970dd9e31cd1600f56b68f9a8a53f913ce10de098d",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\about-desktop.png",
+      "extension": ".png",
+      "bytes": 1733962,
+      "sha256": "6859eee25d73390da4c3650aca74edab2081656d65ea8871ee2046736d9a8a14",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\about-mobile.png",
+      "extension": ".png",
+      "bytes": 1215584,
+      "sha256": "f3d34059e711baafb4d22a114d53159dfffb3c1a835bd6c8a06f72037b8cec83",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\aluminum-windows-desktop.png",
+      "extension": ".png",
+      "bytes": 1953469,
+      "sha256": "a6e76b165519a77e4551e081e8dc66f70c63f5be7f6a9a4d35df6f31a1871581",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\aluminum-windows-mobile.png",
+      "extension": ".png",
+      "bytes": 780003,
+      "sha256": "594b70cc1eff54283573a16f9d99cfc2602dc3dc7bec3c2a2efa99744a5a71fd",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\alutech-desktop.png",
+      "extension": ".png",
+      "bytes": 2627079,
+      "sha256": "df82a2c12e126d1b0d72b2e7b2000e8748f5dd415ccbf545efa2cc0cbe69630c",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\alutech-mobile.png",
+      "extension": ".png",
+      "bytes": 1531782,
+      "sha256": "df906ea52dd55b3ac3778df65d14ea4d527a29ac45dc02d429cee4e599b65746",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\analytics-dashboard-desktop.png",
+      "extension": ".png",
+      "bytes": 82275,
+      "sha256": "3331d306b3c6b729b6c64b86d69392fb5fe5f26f3ae309a1f2833bee53e5c9eb",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\analytics-dashboard-mobile.png",
+      "extension": ".png",
+      "bytes": 78594,
+      "sha256": "e0fc5d28dfc2e59c29a91f00450940d69cee3c5b182069ccbe4e902ff9eba334",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\architects-desktop.png",
+      "extension": ".png",
+      "bytes": 2525139,
+      "sha256": "71da8393a25333039c0882bd292722a97164a9ba403ad649c8b425a10ff1f507",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\architects-mobile.png",
+      "extension": ".png",
+      "bytes": 1404021,
+      "sha256": "ee14c11b6e30baa0442f04842450cfe57b03c951900db05d754539c79cd6100a",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-facade-brief-desktop.png",
+      "extension": ".png",
+      "bytes": 231322,
+      "sha256": "a4c0b7dbb2cc6aa7584aad866940af220e5773563b158c0b2d5b73df3181d372",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-facade-brief-mobile.png",
+      "extension": ".png",
+      "bytes": 211840,
+      "sha256": "42a2a2c4102a0a712ab4fb4ede30c176f46cd68cdf6b5feb9a931915cc9c0f63",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-facade-types-desktop.png",
+      "extension": ".png",
+      "bytes": 186989,
+      "sha256": "0f630b7d64af338549ca411dd770a8810d25df09784a051884b66a3c59eed366",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-facade-types-mobile.png",
+      "extension": ".png",
+      "bytes": 164327,
+      "sha256": "74fd208ae0a3637987431b66ce39d36f7769c739b0ad51b737439e342ca244ab",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-opening-preparation-desktop.png",
+      "extension": ".png",
+      "bytes": 194027,
+      "sha256": "d14ef75dae81679eb0d295f022aba213dfca958d7910437a26d5d681400e7b50",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-opening-preparation-mobile.png",
+      "extension": ".png",
+      "bytes": 166080,
+      "sha256": "76fbdbf4d239690196c38c88b80895a4c805ae7ad44d746548f2ec5d75fb583a",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-panoramic-mistakes-desktop.png",
+      "extension": ".png",
+      "bytes": 256706,
+      "sha256": "070bea8e6e31880d7ac279c0ff77b7b2f45bc60d099daaac95b36c1372a4d4c2",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-panoramic-mistakes-mobile.png",
+      "extension": ".png",
+      "bytes": 225077,
+      "sha256": "26a8fc9a94492ae8a0a8527c36ddfd22568bb72c5c065dea1b747bfdfa6ea222",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-portal-choice-desktop.png",
+      "extension": ".png",
+      "bytes": 199084,
+      "sha256": "0199f3fe3eb9d8f4f687a6737881ab3a7c24a3d4108bb9ddef1f9b6c1be34af3",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-portal-choice-mobile.png",
+      "extension": ".png",
+      "bytes": 171754,
+      "sha256": "bd701b97d9946f848a1bad30db80c0faf9f22eb4ebc32edb21eb5d7532ed7175",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-warm-cold-aluminum-desktop.png",
+      "extension": ".png",
+      "bytes": 209754,
+      "sha256": "d42d0a5428fed6e7fe73ad93f97516e4ab8a8deeed65d7e2219d24236304e6af",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-warm-cold-aluminum-mobile.png",
+      "extension": ".png",
+      "bytes": 190974,
+      "sha256": "99458aa962c2d931595a34d1d668eb4b72deab94753763d92a87666f1774b4fa",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-window-choice-desktop.png",
+      "extension": ".png",
+      "bytes": 254409,
+      "sha256": "bab80f01afce4650d09f12dfd336b5d1321569da500de1cb8c41e9dfc8c7e006",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-window-choice-mobile.png",
+      "extension": ".png",
+      "bytes": 239249,
+      "sha256": "66504f343077e031b3544adf5db356f76bdf2af1d8e3b8f9d01785300073e6ca",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-window-condensation-desktop.png",
+      "extension": ".png",
+      "bytes": 210516,
+      "sha256": "a89f283d53879b2df20d05e86b5c2744db4fc0e4b75a914e82284b72353ec372",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\article-window-condensation-mobile.png",
+      "extension": ".png",
+      "bytes": 182464,
+      "sha256": "165ed7254e3d608b589a8f3c41cca99aaa8be1e95ff5e80b3ae90befbfbff7ee",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\catalog-cases-contact.jpg",
+      "extension": ".jpg",
+      "bytes": 313841,
+      "sha256": "ae433a9ff2a73342fe94804a3f56062677693f5949bf15698012d6e449310885",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\consent-desktop.png",
+      "extension": ".png",
+      "bytes": 116698,
+      "sha256": "a73cfd8b5cbfa44ddb44300733d025071ea20d3cbe4d0511a7c612487a218edc",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\consent-mobile.png",
+      "extension": ".png",
+      "bytes": 96104,
+      "sha256": "d9fbbf04a5231b54d5455716e36d30e1b15d48b765fcc4ff5cda129045eff628",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\contacts-desktop.png",
+      "extension": ".png",
+      "bytes": 292447,
+      "sha256": "98b111f8a2e7d6091cd64705acc350b29c18223b0981a8b21d626427526d2e0d",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\contacts-mobile.png",
+      "extension": ".png",
+      "bytes": 218534,
+      "sha256": "1765a771ac1ab3c6c9a1cccb7219252b839d20246ab79d376eba4641b0d7ce0b",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\desktop.png",
+      "extension": ".png",
+      "bytes": 4194528,
+      "sha256": "e56d5510df2545e9869b6403f53f48684109e89e30638a14d963384ff651329f",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\developers-desktop.png",
+      "extension": ".png",
+      "bytes": 2535914,
+      "sha256": "75ae7c3b51a17c65e6e9cb1a024e95d5a17997e1e8cf784755d975411f0414e7",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\developers-mobile.png",
+      "extension": ".png",
+      "bytes": 1463318,
+      "sha256": "49f5324d2b33748705e595470f2b0cbea5a358d3afd3be06a22d25fa050949a4",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\doors-desktop.png",
+      "extension": ".png",
+      "bytes": 1050129,
+      "sha256": "6b418b823bc68ea4aed3475994ce1235da170cb10cb3004648a93520cb6f4fb0",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\doors-mobile.png",
+      "extension": ".png",
+      "bytes": 579172,
+      "sha256": "edf64c1c540f3e0c3140ed2797ddcf83deaf098687b801a6e47087a1a7825c40",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\engineering-desktop.png",
+      "extension": ".png",
+      "bytes": 809728,
+      "sha256": "ad9cf5711f9251de825b7e858e9bac0d7195314ec837c44e3bf9b7ad1e7ff59f",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\engineering-mobile.png",
+      "extension": ".png",
+      "bytes": 490581,
+      "sha256": "e7c16fee33b77eeba749feac7491071319bca9d880daa905aacf127b3decbfd4",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\facades-desktop.png",
+      "extension": ".png",
+      "bytes": 2411860,
+      "sha256": "c9f0d4dfcae76fe5d2cafa5373809490be84144e887d9c3d33b3766cd25d0d4e",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\facades-mobile.png",
+      "extension": ".png",
+      "bytes": 1410642,
+      "sha256": "0b4dd1ce2243b07c453d8eb2aafd4ba7aea8d43afac05329758c42df1cf85fe3",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\fact-verification-desktop.png",
+      "extension": ".png",
+      "bytes": 102702,
+      "sha256": "5b98b2a537c0c0cbc5b0223c896b8cdc288c9b199a19e5135a0ec1295e73a5aa",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\fact-verification-mobile.png",
+      "extension": ".png",
+      "bytes": 96694,
+      "sha256": "6f1e3574856dc531c343525e2885383ea02cb811e838b5a8d682764e62de1f26",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\full-cycle-desktop.png",
+      "extension": ".png",
+      "bytes": 1512593,
+      "sha256": "58670abf60f88ee5e39d9a1f5dbdc9f72f4d871b586b6a090aa0215a2657ec3d",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\full-cycle-mobile.png",
+      "extension": ".png",
+      "bytes": 1036108,
+      "sha256": "524f3d101a4ba7ccf7e81b813a9081f9d0bfbe3a32d98b8e550c13ff3dff2ab0",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\home-desktop.png",
+      "extension": ".png",
+      "bytes": 4010062,
+      "sha256": "47ec13dfbb6976e5a47cdf1c5da9fc545b80dee0d235f4824931f507c05339a1",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\home-mobile.png",
+      "extension": ".png",
+      "bytes": 1714398,
+      "sha256": "b17cf7a7004bd7203d02a97b1bfac7e76c26ff40c237ea4e87d27a6c7016c368",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\knowledge-desktop.png",
+      "extension": ".png",
+      "bytes": 338989,
+      "sha256": "adfc93877708703325eeaddab30f200951c0669a46f3cb13e522b5e81c6f6bd6",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\knowledge-mobile.png",
+      "extension": ".png",
+      "bytes": 273938,
+      "sha256": "651444e6546379ba8795c33a8db7c30fff98c19f6dfdd93e802d936e10bc7202",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\mobile.png",
+      "extension": ".png",
+      "bytes": 1819306,
+      "sha256": "10ec797289c9669122b972b4b5f0565a08636dd2ec9d11ad11c170fea8fe389a",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\new-pages-top-contact.jpg",
+      "extension": ".jpg",
+      "bytes": 430476,
+      "sha256": "d3310d6729cb0f7ae28e8544369dc6bdba5da33526126abcdd175104affe68e9",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\package-3-contact.jpg",
+      "extension": ".jpg",
+      "bytes": 344689,
+      "sha256": "2f529ba970f563277b3d0d67378ff30113c11a2b656d313b01f350ab0c6c3b13",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\package-4-contact.jpg",
+      "extension": ".jpg",
+      "bytes": 437349,
+      "sha256": "42085a90deb5fedac9578d1f2d4b5376506cb141eb7d65b7a63c12e4d6e5662a",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\package-5-contact.jpg",
+      "extension": ".jpg",
+      "bytes": 422218,
+      "sha256": "897011b2f8b58b8ae51212107dd6b78eeb7f09c85f2f2cb11d246d84dacb6618",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\panoramic-glazing-desktop.png",
+      "extension": ".png",
+      "bytes": 1522960,
+      "sha256": "1ecb4526f5ff6d6abfa37cc77841329e7d3ceb7efc2a8be407a0c1e186561717",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\panoramic-glazing-mobile.png",
+      "extension": ".png",
+      "bytes": 569766,
+      "sha256": "572bbd0812438dbd9d72e175dbd476144c3d116d994d6e707649a82551c27ba7",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\partners-desktop.png",
+      "extension": ".png",
+      "bytes": 729915,
+      "sha256": "9bd3633502267771a0bf011519c8d4f11f1e923997fa6fb86f6d2e300d64f575",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\partners-mobile.png",
+      "extension": ".png",
+      "bytes": 437176,
+      "sha256": "5b18eeda19178429fdb41a23207e9c39f03f8224ee2d20b886b105eee2bfc76d",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\portal-systems-desktop.png",
+      "extension": ".png",
+      "bytes": 2324747,
+      "sha256": "b57f96f6c679c4cd939b6829e63acc3fb5ab837f395803165320d858c46c9d41",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\portal-systems-mobile.png",
+      "extension": ".png",
+      "bytes": 751576,
+      "sha256": "baee90b3524ab1cfa0d09fa9df0925af11555e69fe8dce8c24bb4f1efb4758b4",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\privacy-desktop.png",
+      "extension": ".png",
+      "bytes": 136535,
+      "sha256": "37180bfae9a6de335aff15ef54deb205f34c9a2960c88fec099ad482c5b2f8a5",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\privacy-mobile.png",
+      "extension": ".png",
+      "bytes": 126363,
+      "sha256": "1e9bb1da15f7019ad608c99d8848c1bed920ca500a056fd06a9fc81cbaf82066",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\private-clients-desktop.png",
+      "extension": ".png",
+      "bytes": 2777035,
+      "sha256": "c7e42be6a4b2b32c6a24a88ef18540244e58b20072762a42d9ceafeca8dc5fa1",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\private-clients-mobile.png",
+      "extension": ".png",
+      "bytes": 1297427,
+      "sha256": "db6040665d7cd82c38749d37dbfe81916392764d5288945aaa0d6ad596f1ec7b",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\production-candidates-2.jpg",
+      "extension": ".jpg",
+      "bytes": 336627,
+      "sha256": "a8b7cadedcc9314d27fd4e12e0ad20a6d8befbc5824bedb2f27c29d9393637dd",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\production-candidates.jpg",
+      "extension": ".jpg",
+      "bytes": 316163,
+      "sha256": "92408b3626db68df6eefd6362548d792a3c16731be26f46e043856c211dfca9f",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\production-desktop.png",
+      "extension": ".png",
+      "bytes": 1287410,
+      "sha256": "be64e39fd9338ac72c1dc48c42e2a7e1095875df1e91ec23a8f952b22d0c6ac9",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\production-mobile-top.png",
+      "extension": ".png",
+      "bytes": 76457,
+      "sha256": "546010b347c3dd7c97aea5416f1e754fe0e927d963d8ddda9c6142fbe5bdbaf6",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\production-mobile.png",
+      "extension": ".png",
+      "bytes": 975625,
+      "sha256": "9d29d8556cdef1437052ed50d1b88e42bd3bbd3dbcb657feffc576b7dcc4dda9",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-atrium-kislovodsk-desktop.png",
+      "extension": ".png",
+      "bytes": 2513848,
+      "sha256": "1cefa710492e7aeb6b347de5de966738f9001b8f810d105c8688883ba533d4f6",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-atrium-kislovodsk-mobile.png",
+      "extension": ".png",
+      "bytes": 1010975,
+      "sha256": "3df1c5295076473d0c4b85ba11034e6a4424f127f45f8998455625b5d9a9c4ab",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-central-department-store-novocherkassk-desktop.png",
+      "extension": ".png",
+      "bytes": 1527451,
+      "sha256": "5c30ad580378b9a3f2c121a03c193afd409bb3fc3100e9937dd4e6866526f096",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-central-department-store-novocherkassk-mobile.png",
+      "extension": ".png",
+      "bytes": 698460,
+      "sha256": "27cfdd1833c086dbd37f8154970846459d329536b1b8db4af3e419e03a920006",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-istochnik-essentuki-desktop.png",
+      "extension": ".png",
+      "bytes": 2336961,
+      "sha256": "62685494e87e0465f78fcbc0eacb54f554f3adac2f4dfb3df2dc872bdefb11f7",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-istochnik-essentuki-mobile.png",
+      "extension": ".png",
+      "bytes": 1053603,
+      "sha256": "c3c8562b5d297697322295c09a636a189c9487a75bffd5a23290d27d8c582aec",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-magas-sports-palace-desktop.png",
+      "extension": ".png",
+      "bytes": 2115308,
+      "sha256": "5a0e8f9616f74147969976abe1b9e9920d35c24e2bc328805db595617940c5f0",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-magas-sports-palace-mobile.png",
+      "extension": ".png",
+      "bytes": 937926,
+      "sha256": "d044d2356ec4a2fc2ef3a0c8b79f92a12cfe56325e5bbe23fe517399970775d7",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-mantera-desktop.png",
+      "extension": ".png",
+      "bytes": 3504379,
+      "sha256": "e34f59382eb37c6b13fb33d74a8cb514174e1f8ea9ab336230b9f3742b7aec71",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-mantera-mobile.png",
+      "extension": ".png",
+      "bytes": 1337383,
+      "sha256": "ae57c9390b3ceba12635fc7435ab8e3e032fe305b2551d9afd7846599fbbfe24",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-marriott-desktop.png",
+      "extension": ".png",
+      "bytes": 2421854,
+      "sha256": "3634a55deea6dce2740f6e4826dc4cec20ba3a9db47288a726fe6720bb444c05",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-marriott-mobile.png",
+      "extension": ".png",
+      "bytes": 997603,
+      "sha256": "68114369c725f5475d6e9cc602620621dc3b2a429f8ebfebe38f0a750a62f648",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-rus-essentuki-desktop.png",
+      "extension": ".png",
+      "bytes": 3109791,
+      "sha256": "6ea84c491e2c3c675499ded71a1e0ff9283637d35733f3ebbf18dc4e1929436b",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-rus-essentuki-mobile.png",
+      "extension": ".png",
+      "bytes": 1305505,
+      "sha256": "62b73116fedd6fbfc1cb9755e1d724df85179b8fa82548e16edc41f6ce998044",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-russia-my-history-desktop.png",
+      "extension": ".png",
+      "bytes": 2222450,
+      "sha256": "5da162ab58ea193888482aa1eb1bd1125117b7678f25ad48220b659db04399ac",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-russia-my-history-mobile.png",
+      "extension": ".png",
+      "bytes": 933995,
+      "sha256": "462ddc6b2c400e1d81a94901cad355dab5fcf6c34e87f2ad6d8f7a82bb9e8fc5",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-sochi-seaport-desktop.png",
+      "extension": ".png",
+      "bytes": 2194429,
+      "sha256": "38b3abc70179071fc866aec88db5541d198a526724517faedc3d02b66be515c0",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-sochi-seaport-mobile.png",
+      "extension": ".png",
+      "bytes": 953787,
+      "sha256": "df66d34eb03fa4cd16a599bcd15723987cfef34fb935c9150e6a3d33b38f9408",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-sokol-rostov-desktop.png",
+      "extension": ".png",
+      "bytes": 2018628,
+      "sha256": "2e75e33e794d2fe3d9d2e46f7d625ca5cc0dada06cdb54e9c1f51663f4eceba9",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-sokol-rostov-mobile.png",
+      "extension": ".png",
+      "bytes": 844925,
+      "sha256": "212273d6253978f8742cc2dcd4c733ddf8b5923c30314e0a4f62177a7a756521",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-tselebny-narzan-desktop.png",
+      "extension": ".png",
+      "bytes": 1984788,
+      "sha256": "f9d85b2350eb8dab4092151e8fef0f9608d1e9c42590f25affc4b37605bf58e1",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-tselebny-narzan-mobile.png",
+      "extension": ".png",
+      "bytes": 850499,
+      "sha256": "823e415c8068cbb6d86fa9bd42dfd270df1e9263cfd5757bf5851a8779a7c33c",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-vershina-essentuki-desktop.png",
+      "extension": ".png",
+      "bytes": 2517506,
+      "sha256": "651a041adb7bb2fc06b3f084c6df6486cf09bedae4b74b49de6ae76eb79c9e9e",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\project-vershina-essentuki-mobile.png",
+      "extension": ".png",
+      "bytes": 1080596,
+      "sha256": "f4264cc373f540e44684b4d77c38c80be693e6d5cb83f7efb9c729d546973d16",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\projects-desktop.png",
+      "extension": ".png",
+      "bytes": 6037785,
+      "sha256": "d42f53eb5ddbfad38de95e706d9b32c83dd21612799e60a9ef155e3bb5fe284e",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\projects-mobile.png",
+      "extension": ".png",
+      "bytes": 3830777,
+      "sha256": "07c9a5dede04bf788adb8908edc68e1f5b5fcbf2b408b7f1d520fce04831dff3",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\pvc-windows-desktop.png",
+      "extension": ".png",
+      "bytes": 1279199,
+      "sha256": "d6ce022de5eb6c537fa0ebf47611f1d4d06117ab0e62dccbc8e2ff98c1285eff",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\pvc-windows-mobile.png",
+      "extension": ".png",
+      "bytes": 701767,
+      "sha256": "e29b042f24394cd84f993c739920a4ec501493fda8e87af5ee05f4076df90254",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\sun-protection-desktop.png",
+      "extension": ".png",
+      "bytes": 679232,
+      "sha256": "2f3dd60d5d0da6e9c1352acd329cba48e267a8dc5565bc4c6b3e8d1dcc7ca31f",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\qa\\sun-protection-mobile.png",
+      "extension": ".png",
+      "bytes": 384426,
+      "sha256": "40a7b4122634606ea71daf90782a408143bed61dbd1019f9b165274bc844f47b",
+      "category": "qa_or_derived"
+    },
+    {
+      "path": "website\\assets\\images\\hero-mantera.jpg",
+      "extension": ".jpg",
+      "bytes": 451167,
+      "sha256": "2b189b8eac7ed7e9766bf632b6ab11597a9793180f1c6ef41819aa27e8080cb4",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\marriott.jpg",
+      "extension": ".jpg",
+      "bytes": 305631,
+      "sha256": "a4ed31125ef7f448f8302b11c4fdb3a26e186940cf9dee3a756d2e25d856e867",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\private-house.jpg",
+      "extension": ".jpg",
+      "bytes": 284158,
+      "sha256": "79638ffb09aadc5c8655cf36c142ed922286260562797a99a6d12b6080a90262",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\teros.jpg",
+      "extension": ".jpg",
+      "bytes": 489968,
+      "sha256": "0e4a3113becf951e5e203424bedc53cee887f2d7fc7d94ce90285555ba00af01",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\ushakov.webp",
+      "extension": ".webp",
+      "bytes": 145382,
+      "sha256": "b927bfa785fe62a644e945e6935e39ba1552746f41d203b86238969b12840550",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\logos\\alneo.png",
+      "extension": ".png",
+      "bytes": 100962,
+      "sha256": "3c02715f8208f5ae5cadc2a45ba61d82ead7d60cb5e3f7ba13a7d4e4f9b8ad69",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\logos\\alutech.jpg",
+      "extension": ".jpg",
+      "bytes": 62449,
+      "sha256": "f737eb4222bc1423e79526cb8b8f8139b1e1d2447524bdecc31e5e4a71bd8dba",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\logos\\rehau.jpg",
+      "extension": ".jpg",
+      "bytes": 15210,
+      "sha256": "52d66b45a8f0963203c296f41d2a522a9c0db6fc654dcf29e1e9197a9e76eaca",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\logos\\schueco.png",
+      "extension": ".png",
+      "bytes": 5156,
+      "sha256": "5ca620465033f933a5c1721b48badae4136c78fd3392d3908d3d2d9e2868037c",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\logos\\siegenia.png",
+      "extension": ".png",
+      "bytes": 8194,
+      "sha256": "2c4a0c9a3afbf70c0875c0752ccc01ad94afded248ea42541388cdd296881f47",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\alutech\\door-w72.webp",
+      "extension": ".webp",
+      "bytes": 220748,
+      "sha256": "406a10961709ad66511b481966e20f033815e665371e677dec8d21af5b06be0e",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\alutech\\facade-f50.webp",
+      "extension": ".webp",
+      "bytes": 72184,
+      "sha256": "d3d73fcb23400b6def8ca9f137c192fe247e99eee3b9fdc00b077c1d898bcc28",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\alutech\\nvf-alt150.webp",
+      "extension": ".webp",
+      "bytes": 237364,
+      "sha256": "827419b8d8decfb62b9b2223f2cf3e140ba78cf9da8dd3db4a4cd187614d5854",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\alutech\\portal-sl160.webp",
+      "extension": ".webp",
+      "bytes": 238842,
+      "sha256": "c90e4ff0946e7a044370b5393f138b470ba3ddd1d061299789a420d58708e513",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\alutech\\window-w77.webp",
+      "extension": ".webp",
+      "bytes": 220392,
+      "sha256": "291ca99e610c7f6c302c1dc30f4e4f91e4eff137faddad0778836d2a0bb29aa2",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\mantera-aerial.jpg",
+      "extension": ".jpg",
+      "bytes": 861336,
+      "sha256": "4ff3396f6810d5a2fe811d51de7aa699d36883fee525052a5c083f3e1658bd01",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\mantera-detail.webp",
+      "extension": ".webp",
+      "bytes": 140250,
+      "sha256": "02d3f737635d0f5f7e9f477113df89b63bbb7d8bef54578a9b2acc6aca35c271",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\mantera-evening.jpg",
+      "extension": ".jpg",
+      "bytes": 451167,
+      "sha256": "2b189b8eac7ed7e9766bf632b6ab11597a9793180f1c6ef41819aa27e8080cb4",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\mantera-front.webp",
+      "extension": ".webp",
+      "bytes": 42732,
+      "sha256": "eb3942043ef4bdd95a4fb419e6425ca33143073eec232adfd129050ac37cda7d",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\marriott-detail.jpg",
+      "extension": ".jpg",
+      "bytes": 278674,
+      "sha256": "602d501d9672cab34319cf28ee8aab97f82295a262b642c9fda8e6d0e56e0ee6",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\private-house-terrace.jpg",
+      "extension": ".jpg",
+      "bytes": 182106,
+      "sha256": "531e7364c68791c1aab724060fc7daba675ecc44e69c98bd91a7530b31918b82",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\private-residence.jpg",
+      "extension": ".jpg",
+      "bytes": 278111,
+      "sha256": "415d16fdc454ad2520153e254f8ea162350291d075a0552484ab0cd2cdf4a309",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\teros-courtyard.webp",
+      "extension": ".webp",
+      "bytes": 423266,
+      "sha256": "ccb647c2023a7c8ffad76262a915cff18a313d3f609e7bcf6431956e22ca3fab",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\ushakov-facade.webp",
+      "extension": ".webp",
+      "bytes": 218440,
+      "sha256": "fdfd2591588b349829e50466a2d99bbf68a3fa6551c8d98b2b4d66e97a7be56f",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\hero-mantera-1280.avif",
+      "extension": ".avif",
+      "bytes": 84366,
+      "sha256": "b99e007b1fe44e2e747adf228aca7c0509e395df5e5e43f89d54cd1c9825a3bc",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\hero-mantera-1280.webp",
+      "extension": ".webp",
+      "bytes": 115354,
+      "sha256": "bd4c43d94b28c2e0c21483871a99c36cb44779eb419f627ae2884a170708f6ff",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\hero-mantera-1920.avif",
+      "extension": ".avif",
+      "bytes": 163993,
+      "sha256": "1f7e3eb1ff51223b9909408f4dbf1628e8fef7818b542b70935d78241fe19ae2",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\hero-mantera-1920.webp",
+      "extension": ".webp",
+      "bytes": 210060,
+      "sha256": "6afbbbd1a00da11683dce90d57714138dc6950e5122dcbcb36184a4d7e8d6f3d",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\hero-mantera-640.avif",
+      "extension": ".avif",
+      "bytes": 27118,
+      "sha256": "0097e6752eb92f70b15f871df8d74fcfd6ec719271b9b33982b7bc40a64aa3d7",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\hero-mantera-640.webp",
+      "extension": ".webp",
+      "bytes": 39382,
+      "sha256": "e2be2271294f431467c7e2aa4497c976fc918fe1f253dad9e6d071ed025a120a",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\mantera-aerial-640.avif",
+      "extension": ".avif",
+      "bytes": 42554,
+      "sha256": "1dc50eb016fbb3a41ca3305686911cf2fb94890bfbada29e51d2d7d64c020068",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\mantera-aerial-640.webp",
+      "extension": ".webp",
+      "bytes": 61744,
+      "sha256": "6463f070857d5bf849d110356744a88bf66416a2d4b3d3db703e763caa1e0ea1",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\marriott-1280.avif",
+      "extension": ".avif",
+      "bytes": 67576,
+      "sha256": "14072efdc10b878fa74da25da56dcb163e03dfda1a4faaf74eccc0df5540674a",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\marriott-1280.webp",
+      "extension": ".webp",
+      "bytes": 81482,
+      "sha256": "1ae54f2c789aa738f1f45caf8e8c5ddb9fb966e231903b24737ed1d7aa4a88c5",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\marriott-640.avif",
+      "extension": ".avif",
+      "bytes": 21043,
+      "sha256": "63ab1a16b38382f91e50d43f64f0c966522094de8d7fb499428a2171948ebf0f",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\marriott-640.webp",
+      "extension": ".webp",
+      "bytes": 27392,
+      "sha256": "5f52d83aab07bf1c1ec9a94b670e801a464ab5a296019c61311e7bc88f95add5",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\private-house-1280.avif",
+      "extension": ".avif",
+      "bytes": 134471,
+      "sha256": "6b6cb70cbeca24c70b1d887ff15e54558662f473c29297beabd87c3e1310384e",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\private-house-1280.webp",
+      "extension": ".webp",
+      "bytes": 194720,
+      "sha256": "105f2adb8b6cdae4a8f13dca5230e88c19fe3e2f26bd0a5748fd7bcc767cfa59",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\private-house-640.avif",
+      "extension": ".avif",
+      "bytes": 33871,
+      "sha256": "526ec9aa4649c65aa4ccabb72873424d51bbea8ff74b7c8ce66ccd9fe8c6ee11",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\private-house-640.webp",
+      "extension": ".webp",
+      "bytes": 52244,
+      "sha256": "70c349e45953963b217bf44a2b9686e6b1b51971ec23221bc99c9fe1f7d3f7b1",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\private-house-terrace-1280.avif",
+      "extension": ".avif",
+      "bytes": 69689,
+      "sha256": "718ded458e61a0165021ebbc34cc8abada442d41b730d7d6bfa501a28b233d3f",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\private-house-terrace-1280.webp",
+      "extension": ".webp",
+      "bytes": 83396,
+      "sha256": "5008e6286edef605e1da721793f88440d9d2d00bcfe057bb02cfc512cfd66a9f",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\private-house-terrace-640.avif",
+      "extension": ".avif",
+      "bytes": 19661,
+      "sha256": "3fa1ccc3dfeff7487c5ab8a196bcf4327b5938f636e71f51704130216bd28895",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\private-house-terrace-640.webp",
+      "extension": ".webp",
+      "bytes": 25370,
+      "sha256": "1fda362ffaf674267a3bb5deb241d9b0573897458736c625f6f6a1e61f1e90f8",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\private-residence-640.avif",
+      "extension": ".avif",
+      "bytes": 52487,
+      "sha256": "d12429c373b382dac8dcb9339c57840a466e19899d7d3d60051642d023d839df",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\private-residence-640.webp",
+      "extension": ".webp",
+      "bytes": 83368,
+      "sha256": "cb517b0e71a1944fa46df0e255340ba788ff369888acf2b2cb8716fda752b43c",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\teros-courtyard-1280.avif",
+      "extension": ".avif",
+      "bytes": 108971,
+      "sha256": "19ce3cf4b12786c3686760dd4ecb49543feac3e55b439ed049fa537dda2f1445",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\teros-courtyard-1280.webp",
+      "extension": ".webp",
+      "bytes": 167932,
+      "sha256": "2cc415ee5d9adb2d4dc4c29177b8ed8c773579388d57f6bb687ae9fb115e8456",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\teros-courtyard-1920.avif",
+      "extension": ".avif",
+      "bytes": 209105,
+      "sha256": "2859662528203d0a612ab025c2bde43e44e95dd52d12f0f628ee0414a842e343",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\teros-courtyard-1920.webp",
+      "extension": ".webp",
+      "bytes": 325166,
+      "sha256": "3989d8cc3a27f6aa585ee83404740dd3d5f69c9c5a15d627c7618ac0eec42b77",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\teros-courtyard-640.avif",
+      "extension": ".avif",
+      "bytes": 34725,
+      "sha256": "86d12841dfdadb998d8e20e9f1d68461eba8ab5ed959d4b12f3b9edb44ca8ab4",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\teros-courtyard-640.webp",
+      "extension": ".webp",
+      "bytes": 53626,
+      "sha256": "39a79def63daf0ecd1bbe98965f863553f666c5510fed92d1f520e244ec6ce46",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\ushakov-facade-1280.avif",
+      "extension": ".avif",
+      "bytes": 106524,
+      "sha256": "c2a49638df5b25b974b097a10b962267329e078565ab7627738c4a686321205c",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\ushakov-facade-1280.webp",
+      "extension": ".webp",
+      "bytes": 167238,
+      "sha256": "c8701c953211fd4b319edbed9ef182088f8c97bb64b522800f95108fcacda7f5",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\ushakov-facade-640.avif",
+      "extension": ".avif",
+      "bytes": 35623,
+      "sha256": "97efabec6998d11b87f6930af8bc7fb499cf4d7740808b5bca00894f2febc96f",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\responsive\\ushakov-facade-640.webp",
+      "extension": ".webp",
+      "bytes": 55068,
+      "sha256": "cfcc44cabe46a92bdb99e165eabd08f660ef6de269eb81bbb836d847cb1cbec7",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\atrium-kislovodsk-1.webp",
+      "extension": ".webp",
+      "bytes": 200798,
+      "sha256": "757c6c48dffe8d4c3153ac4ced0a2cdded938ddcee0e10559d31802fceaf5814",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\atrium-kislovodsk-2.webp",
+      "extension": ".webp",
+      "bytes": 97554,
+      "sha256": "2e69638d4241f6a7b080bbc9f556013bf8bb24aa152a319b716b019828d26db6",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\central-department-store-novocherkassk-1.webp",
+      "extension": ".webp",
+      "bytes": 65394,
+      "sha256": "7d2fb660bebfc60ada8d59b25b807879a5f12a06787ec96fccb705251f1fed48",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\central-department-store-novocherkassk-2.webp",
+      "extension": ".webp",
+      "bytes": 27684,
+      "sha256": "33966d12b9c6dd3f458c82c9b0fb62c33efa3b79b6a421394797cfaa2692692e",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\istochnik-essentuki-1.webp",
+      "extension": ".webp",
+      "bytes": 91100,
+      "sha256": "1a9135901c3ad612f067dab5770fef2202b94c5ac217a2988a5f62e9d4be92a4",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\istochnik-essentuki-2.webp",
+      "extension": ".webp",
+      "bytes": 88694,
+      "sha256": "52bd02c4d5e0cc0e8c6007fb74ac3cb72c78472adc7239d4c42bd2c105b5402e",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\istochnik-essentuki-3.webp",
+      "extension": ".webp",
+      "bytes": 61844,
+      "sha256": "3fd036d307d7692e1fef511a69370107ee017be3a952e5d7dd4a519f7ee3456e",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\magas-sports-palace-1.webp",
+      "extension": ".webp",
+      "bytes": 128422,
+      "sha256": "2c30a9e7a12058da83aad427bb8c95e6ecf0fcff90379208898211b04a93dd2c",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\magas-sports-palace-2.webp",
+      "extension": ".webp",
+      "bytes": 62634,
+      "sha256": "9393a744ddd6fa7fa11a082c12722a595d8edf1131bf8c470dcae941ba80eb7e",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\rus-essentuki-1.webp",
+      "extension": ".webp",
+      "bytes": 237692,
+      "sha256": "e258549726f261338fa71b8530fe3a4390753c31d8cde016f6a9422c2fbebbf4",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\rus-essentuki-2.webp",
+      "extension": ".webp",
+      "bytes": 76898,
+      "sha256": "ddfb60340328a1f479dd8d008b093d13209cad2a10957e15312b2eb5f41e922c",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\rus-essentuki-3.webp",
+      "extension": ".webp",
+      "bytes": 85122,
+      "sha256": "59fc3a72b607c4fe6df2ffb61ef0a563243dd9bba6cc359028d6582a84c70898",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\russia-my-history-1.webp",
+      "extension": ".webp",
+      "bytes": 177332,
+      "sha256": "11c5d453a789841f99666e6d3f08a3002873673ff9701d0cd422dd4e1c2ccd38",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\russia-my-history-2.webp",
+      "extension": ".webp",
+      "bytes": 77436,
+      "sha256": "11e6fa9c40d30a8a6ddf07cabe92c771595ee63db780e6469f8088f2e663f1b2",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\sochi-seaport-1.webp",
+      "extension": ".webp",
+      "bytes": 135686,
+      "sha256": "de3e86088621fcbdd55b5f2b3d65a1f9791fcbd57b57eabff69dac1e04a99993",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\sochi-seaport-2.webp",
+      "extension": ".webp",
+      "bytes": 95392,
+      "sha256": "6754f9a787dfc472a86d3cbef7b4d3b19fe0a8c445faa62b3476ae11155beda0",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\sokol-rostov-1.webp",
+      "extension": ".webp",
+      "bytes": 136268,
+      "sha256": "fe37544544c1b62abbd8a4716d37fca0c9bb82f04abd612090ebded9517b61b8",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\sokol-rostov-2.webp",
+      "extension": ".webp",
+      "bytes": 54222,
+      "sha256": "86e9211558eb089039a332e1b0b3a6cdd6d89e57548d67d9fcaef143e4186660",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\tselebny-narzan-1.webp",
+      "extension": ".webp",
+      "bytes": 130986,
+      "sha256": "1e60475632250b29b9acb6ea1bc4110c7f2069b91f2f435db6337b8d8adafd41",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\tselebny-narzan-2.webp",
+      "extension": ".webp",
+      "bytes": 96386,
+      "sha256": "081acbe915042f3bd8f17290574ac00d1663bd66d93af0dc8eeda4f910406dda",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\vershina-essentuki-1.webp",
+      "extension": ".webp",
+      "bytes": 150106,
+      "sha256": "bf1dfa5643941da694a7b2129a8ed38a03ee9c8d5926a02c448e37c1ff1ae584",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\vershina-essentuki-2.webp",
+      "extension": ".webp",
+      "bytes": 52648,
+      "sha256": "44ad00300101c702bc1746757a10e44994fa09ddc35b2d194ea1994a9a35960f",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "website\\assets\\images\\projects\\catalog\\vershina-essentuki-3.webp",
+      "extension": ".webp",
+      "bytes": 76380,
+      "sha256": "383f1dcb2a0d7307d501fcc08374da7e13617f952d823c5eefcf57baefc459ad",
+      "category": "prototype_asset"
+    },
+    {
+      "path": "Для сайтов партнеров\\Балконы и витражи\\ALT 100P.png",
+      "extension": ".png",
+      "bytes": 1770515,
+      "sha256": "316a3c8c05edff599ab6f7bde199816fe8da0269acd13ce9852564c922d85dd9",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Балконы и витражи\\VR26.png",
+      "extension": ".png",
+      "bytes": 299183,
+      "sha256": "166dd24841a32574b61aa26252277123e0855761793475e29051d5d77d9c9cc2",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери без термоизоляции\\ALT C43.png",
+      "extension": ".png",
+      "bytes": 447939,
+      "sha256": "acd5656b43f1982edc8464c930cb8fb982b18657ddf04ded079d157cdc9dcb7c",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери без термоизоляции\\ALT C48 Автоматические раздвижные двери.png",
+      "extension": ".png",
+      "bytes": 2662573,
+      "sha256": "d3af012c0b50fbaec19a026adaef2574d9fc7e1c8828c8e630e189642873bebc",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери без термоизоляции\\ALT C48 качающаяся.jpg",
+      "extension": ".jpg",
+      "bytes": 437280,
+      "sha256": "f8386ab401c5b044b8d301076106f847c7ec6905064929dcfee57da99ef2ed03",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери без термоизоляции\\ALT C48 петля FAPIM.jpg",
+      "extension": ".jpg",
+      "bytes": 416265,
+      "sha256": "e8010c3b90617a5fcdbf16cfa8f90341fc39f8d57c3341f5998b27adf86af8aa",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери без термоизоляции\\ALT C48 с накладными петлями.png",
+      "extension": ".png",
+      "bytes": 1380328,
+      "sha256": "dbc48ea81d5de91e36ca1d735f67372f6c1b01fb281aeaa6808b20c1652ef84b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери без термоизоляции\\ALT C48 с роликовыми петлями.png",
+      "extension": ".png",
+      "bytes": 3242949,
+      "sha256": "ef009afa209533f0e329f9511a5803f45d77305b2b4666045e402f20731e644e",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Интерьерные решения\\ALT110.jpg",
+      "extension": ".jpg",
+      "bytes": 6677073,
+      "sha256": "9f38d7bda45fbd438b7dc6f1eadc2ec89975cfb4fd5e576d88839d8fcebc5fc6",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Интерьерные решения\\ALT111.jpg",
+      "extension": ".jpg",
+      "bytes": 6747461,
+      "sha256": "f26802aed9be660176af2fd52421d854266dc869ca71ad1145394d861db6c558",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Интерьерные решения\\ALT115.jpg",
+      "extension": ".jpg",
+      "bytes": 6842935,
+      "sha256": "974e3af6accf3ea7ec2a273a30ab7d4191963f923df49ffd7a3102e0f2da5801",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Интерьерные решения\\ALT118.jpg",
+      "extension": ".jpg",
+      "bytes": 743473,
+      "sha256": "4a2e651330958c5e99a2245af87c9f750190cc46eb37752d537ea83811fc9c38",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\НВФ\\Видимое и скрытое крепление листовых материалов.png",
+      "extension": ".png",
+      "bytes": 5474416,
+      "sha256": "53f41a16ef6213478b151bc49872f7294be43cac0cfe294c9f449da9d0edd780",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\НВФ\\Видимое крепление керамогранита.png",
+      "extension": ".png",
+      "bytes": 5769159,
+      "sha256": "dcbf102e3428e1f7ceb7bfecbd08a6287b5b5525f2ba2feee3beab156fe225cc",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\НВФ\\Крепление крупноформатного тонкого керамогранита.png",
+      "extension": ".png",
+      "bytes": 5731100,
+      "sha256": "35ea0a4df82a01af5bd04d27d0e20360c8c49f609045e7e5ba4ebea117aa09d5",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\НВФ\\Скрытое крепление кассет из алюмокомпозитных панелей и материалов.png",
+      "extension": ".png",
+      "bytes": 5117479,
+      "sha256": "f1bc602ee5f6497bd3c18e00d9c3be6b545d0851052533d242cccf348d24fa25",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\НВФ\\Скрытое крепление керамогранита и нат камня.png",
+      "extension": ".png",
+      "bytes": 5774833,
+      "sha256": "2482d70f68dcbab400e0ec4e1f93fb977d4d0637b6757f4f3e7ac565aed147b9",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна без термоизоляции\\ALT C43.png",
+      "extension": ".png",
+      "bytes": 1837190,
+      "sha256": "c1b2853a89108034bef21e9753f46c2667b9a434841fc39fa54c6ec322a1e9ea",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна без термоизоляции\\ALT C48.png",
+      "extension": ".png",
+      "bytes": 1785528,
+      "sha256": "0336a3ec758f8a617cce6b6077e8863d67f75d75011a88244f8a35d47f005e40",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Противопожарные двери\\FR76.jpg",
+      "extension": ".jpg",
+      "bytes": 5589064,
+      "sha256": "80ca6f61fcf1f8daaad87b1d717903de73b7a0acf2767d2e91035e427a8649e4",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Противопожарные двери\\W72 FR.png",
+      "extension": ".png",
+      "bytes": 713826,
+      "sha256": "eccff824eb36a3a367013e9cbec69891746a7b3f1b0533cd221c552bd31a90ab",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Классическая дверь ALT W72 D\\07. Угол классической двери.png",
+      "extension": ".png",
+      "bytes": 1071171,
+      "sha256": "3a217b7d43f1a2bd65d1094e627c72c87eae3dda8dfdf90ef1be0691a471635c",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Классическая дверь ALT W72 D\\Дверь_наружная_двухстворчатая_1.png.png",
+      "extension": ".png",
+      "bytes": 5621733,
+      "sha256": "731b6022f19056d26a5f02109b5f34e875d1f8a718981b0c7f61e556ba0dff77",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Классическая дверь ALT W72 D\\Дверь_наружная_двухстворчатая_2.png.png",
+      "extension": ".png",
+      "bytes": 5621039,
+      "sha256": "54215facd664324365b7c6d8af794ed669d6f354c6a8e693fb8927fe457e9cb9",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Классическая дверь ALT W72 D\\Дверь_наружная_одностворчатая_1.png.png",
+      "extension": ".png",
+      "bytes": 5769645,
+      "sha256": "c73af94be38db687c66997c7daf4949efbc0daf2452861c37867b974d924260a",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Классическая дверь ALT W72 D\\Дверь_наружная_одностворчатая_2.png.png",
+      "extension": ".png",
+      "bytes": 5767954,
+      "sha256": "4e24062254e325dd851dce1738abaaabd198426fe932bdedf02e06ea218353a6",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Классическая дверь ALT W72 D\\п11_0.png",
+      "extension": ".png",
+      "bytes": 7890555,
+      "sha256": "a4aa61b2d4bb8d8117222dd8786cb7bc8bd9144342a4bc5fcf06ec79cf3fae3b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Классическая дверь W62 D\\ALTW62_D.jpg",
+      "extension": ".jpg",
+      "bytes": 407712,
+      "sha256": "dafae9baa7aec434b541e2feb009ccc4ed229fe04879d4d32157ed77672da8ed",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Крупногабартиная дверь ALT W72 HD\\HD.jpg",
+      "extension": ".jpg",
+      "bytes": 3450734,
+      "sha256": "ff833f7a3a5bb6db1ff6d7be1fc43deddb4abc81fb887e2561fe6f550b800216",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Крупногабартиная дверь ALT W72 HD\\W72HD_крест_градиент.png",
+      "extension": ".png",
+      "bytes": 3596733,
+      "sha256": "697e5d945673bf910812dc19c1aefa5c6d7c5ce850224265f42a4408d01b2a92",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Структурные двери W62 SGD\\W_62 SGD.png",
+      "extension": ".png",
+      "bytes": 3465311,
+      "sha256": "03642d2d30c9e6d5cc35a64813ae28aee9384f7a876b25922afcb91ec8ae5f39",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Структурные двери W72 SGD\\009_Структурные входные двери ALT W72 SGD (экстерьер).jpg",
+      "extension": ".jpg",
+      "bytes": 16344979,
+      "sha256": "0ad1b874440aed8bc2150a63185c7851b9b71a0f77de7aae514490b05104be91",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Структурные двери W72 SGD\\W72 SG D.png",
+      "extension": ".png",
+      "bytes": 5664129,
+      "sha256": "0b880ea1481a8e35ef85647275c22d1b06174708875e9de7d30b8dfd9d09eb74",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Террасная дверь ALT W72 TD\\крест_W72_4.png",
+      "extension": ".png",
+      "bytes": 3484979,
+      "sha256": "ea21cdc07555f9e39e7640738947521d34076a5fb2968954c8458daf9adfbbb4",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Террасная дверь ALT W72 TD\\террасная дверь ALT W72 TD (2).png",
+      "extension": ".png",
+      "bytes": 7173296,
+      "sha256": "3a7cbd4ec0cbb48cb8b6433a21e83105089eb6a3b17c6a765a86d8a1937fd738",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Двери с термоизоляцией\\Террасная дверь ALT W72 TD\\террасная дверь ALT W72 TD.png",
+      "extension": ".png",
+      "bytes": 7090580,
+      "sha256": "ed3f0724d86a5f919e525578a0fba3978b827b322cb237a338c785e1888b297b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Алюмодеревянное окно ALT W72 AW\\00.png",
+      "extension": ".png",
+      "bytes": 1789576,
+      "sha256": "ec70fd8acf847402349d0c55c0e58878a92db01f8e1b46cd85d9468fc84c52fe",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Алюмодеревянное окно ALT W72 AW\\ALT W72 AW.png",
+      "extension": ".png",
+      "bytes": 4356826,
+      "sha256": "74e8007127ba9577251a8b7af12e3a90825bf43bcf8feb3d6bbd71d1fc4a5f9b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Алюмодеревянное окно ALT W72 AW\\Алюмодерево_0123_2ручки1 копия.png",
+      "extension": ".png",
+      "bytes": 12663051,
+      "sha256": "897b55cb5b5badfdabc35cb1ca0548f20f13723ea100af958cb38a51a1b2386b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Алюмодеревянное окно ALT W72 AW\\Дерево_открытие_.штульп.59.png",
+      "extension": ".png",
+      "bytes": 2310927,
+      "sha256": "a5eb40d120681c337edf4960866488f51bfb893e2b3d7145ddc694776fd65964",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Алюмодеревянное окно ALT W72 AW\\Дерево_открытие_одиночн.60.png",
+      "extension": ".png",
+      "bytes": 1384479,
+      "sha256": "1f255cda69611e7b4da45c7fbcd7001c537bc14ddb41ef1decae43f9b9a0c3d7",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W72 VS\\09. Вентстворка_main.png",
+      "extension": ".png",
+      "bytes": 1247631,
+      "sha256": "a21ec7bc6158f634920287cfbd4fd0eadf7ff3b1503fb95d2dad261b7af16baa",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W72 VS\\09. Вентстворка_слайд 5_main.png",
+      "extension": ".png",
+      "bytes": 1195490,
+      "sha256": "ee4e38b52d1349f75bdd829dbf0296e8b42085bef433b84beb39fbd43fca05ce",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W72 VS\\Inter_YES_1.png",
+      "extension": ".png",
+      "bytes": 11085832,
+      "sha256": "b837eb11857b4f6c46a8af4b4a0307b2a29f9c77ee6a44955395329d2ffc0338",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W72 VS\\Inter_YES_2.png",
+      "extension": ".png",
+      "bytes": 12419484,
+      "sha256": "746eb9929fedfbbf1a1441c7a5e750116ccba625e288275b035e23eeef25c70e",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W72 VS\\вентворка структурная.png",
+      "extension": ".png",
+      "bytes": 6722519,
+      "sha256": "c5b1c3e44318af25024c4e22a92a156f1fb406f69eb4fcf042cb4142f718c659",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W72 VS\\вентвторка классическая.png",
+      "extension": ".png",
+      "bytes": 6210737,
+      "sha256": "477cc83a5c4bf3e3edc657d091dfa5c617d80aa0f4922b9941474750fe998b04",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W77 VS\\Inter_YES_1.png",
+      "extension": ".png",
+      "bytes": 11085832,
+      "sha256": "b837eb11857b4f6c46a8af4b4a0307b2a29f9c77ee6a44955395329d2ffc0338",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W77 VS\\Inter_YES_2.png",
+      "extension": ".png",
+      "bytes": 12419484,
+      "sha256": "746eb9929fedfbbf1a1441c7a5e750116ccba625e288275b035e23eeef25c70e",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W77 VS\\VS VS SG.png",
+      "extension": ".png",
+      "bytes": 3429476,
+      "sha256": "f96bf71da76d95fd72dde97020d52f0a93ebd198a267796c84dca36c6a72546d",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W77 VS\\VS VS.png",
+      "extension": ".png",
+      "bytes": 3330271,
+      "sha256": "2c2fe3907d982f7081ee275271f5674da0f1e6568da55fb7fc8bff30cda69874",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W77 VS\\вентворка структурная.png",
+      "extension": ".png",
+      "bytes": 6722519,
+      "sha256": "c5b1c3e44318af25024c4e22a92a156f1fb406f69eb4fcf042cb4142f718c659",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка ALT W77 VS\\вентвторка классическая.png",
+      "extension": ".png",
+      "bytes": 6210737,
+      "sha256": "477cc83a5c4bf3e3edc657d091dfa5c617d80aa0f4922b9941474750fe998b04",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Вентстворка W62 VS\\W62VS.jpg",
+      "extension": ".jpg",
+      "bytes": 1220203,
+      "sha256": "d11a439224f19c20117267febb3175707f786aaf60ae89c34c04ca70719542d6",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Классические и французские окна ALT W72\\ALT W72.png",
+      "extension": ".png",
+      "bytes": 2358450,
+      "sha256": "25b472845a78565e109ac9d9d4aae9a8e7b5f5995f305570547077ecc522415b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Классические и французские окна ALT W72\\w72_w.png",
+      "extension": ".png",
+      "bytes": 12374693,
+      "sha256": "a3e66cb30ff144443154f8933e3f1150f5477efd5e8ca36d2055146c474ffea5",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Классические и французские окна ALT W72\\Окно_внутри_1.png",
+      "extension": ".png",
+      "bytes": 7972102,
+      "sha256": "ebad8b97a06830a0f81a604c5cea69d0a44c069d0208ff1c317c69a72916757f",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Классические и французские окна ALT W72\\Окно_внутри_2.png",
+      "extension": ".png",
+      "bytes": 7052344,
+      "sha256": "2016fdacca54fc71261711c5d36d1681b23390be771ba72cbb3cf5495c6b679c",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Классическое окно W62\\ALT W62 W.png",
+      "extension": ".png",
+      "bytes": 1734128,
+      "sha256": "8835d44d1d14f1ecdac78960d0470c9f3b7e8649829cdf6e47f532d1a684fd5f",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Окно с повышенной термоизоляцией ALT W77\\ALT W77_ugol.png",
+      "extension": ".png",
+      "bytes": 1449692,
+      "sha256": "c4e553686b7d1c4a8f25fc3bd3140a3ce7246f7dab0562fd66b61991c6f738af",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Окно с повышенной термоизоляцией ALT W77\\w72_w.png",
+      "extension": ".png",
+      "bytes": 12374693,
+      "sha256": "a3e66cb30ff144443154f8933e3f1150f5477efd5e8ca36d2055146c474ffea5",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Окно с повышенной термоизоляцией ALT W77\\Окно_внутри_1.png",
+      "extension": ".png",
+      "bytes": 7972102,
+      "sha256": "ebad8b97a06830a0f81a604c5cea69d0a44c069d0208ff1c317c69a72916757f",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Окно с повышенной термоизоляцией ALT W77\\Окно_внутри_2.png",
+      "extension": ".png",
+      "bytes": 7052344,
+      "sha256": "2016fdacca54fc71261711c5d36d1681b23390be771ba72cbb3cf5495c6b679c",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Окно с повышенной термоизоялцией ALT W77 HS\\W77 HS.png",
+      "extension": ".png",
+      "bytes": 3654030,
+      "sha256": "71959ba764eb93ed4fbc2f0e26c8e667918b08ad5c67a2ae33e7abdc5195e11b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Окно с повышенной термоизоялцией ALT W77 HS\\Окно_со_створками_1.png",
+      "extension": ".png",
+      "bytes": 6117277,
+      "sha256": "02f9f23aad0375b042c45e372447c7df63cc8a8aaf6cb94e7db453f55676790b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Окно с повышенной термоизоялцией ALT W77 HS\\Окно_со_створками_2.png",
+      "extension": ".png",
+      "bytes": 5206741,
+      "sha256": "35353a02cacf3cd7bf79b8a8c000be0b23c8647e2c42f3bc668c11fc1d5bb2c8",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Скрытая створка ALT W72 HS\\Кресты_скрытая створка ALT W72 HS.png",
+      "extension": ".png",
+      "bytes": 2289654,
+      "sha256": "a4395698474493773cc0395177a514c73f6520ad302aa6806e6f3472f3a1e814",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Скрытая створка ALT W72 HS\\Окно_со_створками_1a.png",
+      "extension": ".png",
+      "bytes": 6117277,
+      "sha256": "02f9f23aad0375b042c45e372447c7df63cc8a8aaf6cb94e7db453f55676790b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Скрытая створка ALT W72 HS\\Окно_со_створками_2a.png",
+      "extension": ".png",
+      "bytes": 1282612,
+      "sha256": "b5240ac09ed9a2b6634358e09efca63a5bab1a42e5a8a359661e5dad69f71527",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Скрытая створка W62 HS\\ALTW62_HS.jpg",
+      "extension": ".jpg",
+      "bytes": 490318,
+      "sha256": "eaabd860807f101078b8d230ff26a5bab37427f8d5d2828ebfa8bb9d6a060d01",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Цельностеклянные ограждения ALT JB\\окна_французские_1.png",
+      "extension": ".png",
+      "bytes": 8499401,
+      "sha256": "271204de752255354a5be47cdf4a3be6676f6a99464bba67d7ab33eecc3260f7",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Цельностеклянные ограждения ALT JB\\ФР_ркно_ограждение_01.png",
+      "extension": ".png",
+      "bytes": 3531707,
+      "sha256": "9bde9ececcfc317a40d9d9103ff3dc20bf80084623bf25479092e0bd1d2c0b3d",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Цельностеклянные ограждения ALT JB\\ФР_ркно_ограждение_05.png",
+      "extension": ".png",
+      "bytes": 3485435,
+      "sha256": "43ddc9ce0fa9cd49c28d1251f3c4e5a26b7e8df1ee5ebeb6546079cfe9ca90cf",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Цельностеклянные ограждения ALT JB\\Французское_окно_двухствор_экстер_ab.png",
+      "extension": ".png",
+      "bytes": 2778557,
+      "sha256": "84f88d517011b53850a381803e96de4ea3d203573a30bef2a172a445aa11a30f",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Классические и французские окна ALT W72\\Французские окна ALT W72\\Окно_французское_двойное.png",
+      "extension": ".png",
+      "bytes": 8330527,
+      "sha256": "7a661a67109d0729cd5b0cb3d12bccfbe6673899d9c95a749f7adfb48920bdad",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Окна с термоизоляцией\\Классические и французские окна ALT W72\\Французские окна ALT W72\\Окно_французское_одиночное.png",
+      "extension": ".png",
+      "bytes": 8525619,
+      "sha256": "754f4b62dbfc5cc4c7ef26ad78e95a79bcc9507ef06e228c02d1541587f7e561",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Порталы\\Подъемно - раздвижные конструкции ALT SL160\\24.3.jpg",
+      "extension": ".jpg",
+      "bytes": 5815397,
+      "sha256": "5151c9c66f9ff9d2e2b015d4c0f008bae80c4a91de1bf79465f256da5e7eb6b5",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Порталы\\Подъемно - раздвижные конструкции ALT SL160\\SL160_0101.59.png",
+      "extension": ".png",
+      "bytes": 4764827,
+      "sha256": "1cc8f1aebc05ae6b4afa4480525e56c8257991272efb43a3748ce10deb9d3d3a",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Порталы\\Подъемно - раздвижные конструкции ALT SL160\\Двери_раздвижные_1.png",
+      "extension": ".png",
+      "bytes": 5080238,
+      "sha256": "d892f9b19796b376d13d8719271e6f4ef458557fd8906490a56515d8faf0e2f2",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Порталы\\Подъемно - раздвижные конструкции ALT SL160\\Двери_раздвижные_2.png",
+      "extension": ".png",
+      "bytes": 5098921,
+      "sha256": "773f408f5ce2c5993ba1829a7369512cef9935b8f5f5601fde70fa2c860131ae",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Порталы\\Подъемно - раздвижные конструкции ALT SL160\\Дверь_развижная_SL160_03k.png",
+      "extension": ".png",
+      "bytes": 10042016,
+      "sha256": "738e857be1027f95554bc158dab69576f0345ea288e8c927e48c0ce080cc3978",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Порталы\\Подъемно-раздвижные и сдвижные конструкции ALT SL130\\SL130_II.88a.png",
+      "extension": ".png",
+      "bytes": 2076296,
+      "sha256": "581e09caec0a98f74ce06e0035e8a9e3b1e3a9a5826f3bda494d97b3190ae60a",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Порталы\\Подъемно-раздвижные и сдвижные конструкции ALT SL130\\SL130_int_7038.png",
+      "extension": ".png",
+      "bytes": 17228533,
+      "sha256": "a87d10ca5b51064ae769f11ff382308e72e0cb2a10b94d789ac9efd5c0264466",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Порталы\\Складные двери-гармошки ALT BF73\\BF7_узкая сторка.png",
+      "extension": ".png",
+      "bytes": 2263839,
+      "sha256": "0864f40a5aa3d9eca059ceda56cd87f592f88dc7d34bd7d9bdb1f81f66c31f5f",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Порталы\\Складные двери-гармошки ALT BF73\\pic_BF73_3_0_0_v1.png",
+      "extension": ".png",
+      "bytes": 9396991,
+      "sha256": "37694e13399e056e73329417722da950cc470a50bdceeaf9970768b95d5e4172",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Порталы\\Складные двери-гармошки ALT BF73\\ugol_0101_0201_asm.130.png",
+      "extension": ".png",
+      "bytes": 4254296,
+      "sha256": "7499c63c2ac3199e2dfa7d4f412700f25cee02154930b97174e750767beddbbc",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\ALUTECH\\Ручка-штанга.png",
+      "extension": ".png",
+      "bytes": 2901216,
+      "sha256": "df750e36a05b1b110fe24267aa24288b511758082eb7e1868e1d1d5133587c3a",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\ALUTECH\\Штанга.2155.png",
+      "extension": ".png",
+      "bytes": 4121694,
+      "sha256": "6459e9e4fa8479727e419f1ae81fb16fe4c40bff14f07ae0a68e99833c1edc2a",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\ALUTECH\\Штанга.2156.png",
+      "extension": ".png",
+      "bytes": 4140123,
+      "sha256": "134e97d67f12184106967be5375db53c7ca04d229cc90e036c0c2bdf54ec3594",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\ALUTECH\\Штанга.2157.png",
+      "extension": ".png",
+      "bytes": 3825337,
+      "sha256": "f7a60c5a507693af0d1698f9c1eca1731fac8a9c0d1591eb4752ce11c5b8d9c5",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\ALUTECH\\Штанга.2158.png",
+      "extension": ".png",
+      "bytes": 3825465,
+      "sha256": "c42b525fda68519f8d3f5073aa4b59aff8ed08cc7377b2ab4425d511d1b08997",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\MEDOS\\DUBLIN классическая_9005.png",
+      "extension": ".png",
+      "bytes": 3073701,
+      "sha256": "2b3f5879bdd4316e5c32625e75a82458eba3aa76643c7a60e21b3732d1bb7866",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\MEDOS\\DUBLIN классическая_9006.png",
+      "extension": ".png",
+      "bytes": 3105457,
+      "sha256": "97552760023441421e7cd52b21b1aeb38fb2f97d8bf341698a6aa1098f88e3a1",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\MEDOS\\DUBLIN классическая_9016.png",
+      "extension": ".png",
+      "bytes": 3110629,
+      "sha256": "825500709edce1d8725a1896ff25cf9495b51d8a82b114e535b0e0a725b9c663",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\STUBLINA\\Нажимная ручка Stublina, белый.png",
+      "extension": ".png",
+      "bytes": 504762,
+      "sha256": "698867729ea6ef77e641e1461e38cb4910161f24cb3bc45b5060230feb215e3d",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\STUBLINA\\Нажимная ручка Stublina, серебро.png",
+      "extension": ".png",
+      "bytes": 523605,
+      "sha256": "f2512d00dce6b7cc5be40376af9caef912cee9931d0f6176b138affab9cc77ad",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\STUBLINA\\Нажимная ручка Stublina, черный.png",
+      "extension": ".png",
+      "bytes": 482891,
+      "sha256": "da5197a71e1d3732e19ab147ca0a0bb35ab20af0ee8e8f63511ff862aab90b22",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\STUBLINA\\Нажимной гарнитур Stublina с замком, белый.png",
+      "extension": ".png",
+      "bytes": 1444556,
+      "sha256": "1e9f95a1b25e5b3f16e7335eb2650200872e18844bc33da3583c2891e172db83",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\STUBLINA\\Нажимной гарнитур Stublina с замком, серебро.png",
+      "extension": ".png",
+      "bytes": 319332,
+      "sha256": "ee6bba71594e31e711d95a2809b9a1163ba8b2fa05848b7df49bc34e5be8a485",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Двери\\STUBLINA\\Нажимной гарнитур Stublina с замком, черный.png",
+      "extension": ".png",
+      "bytes": 1206018,
+      "sha256": "747d7b00620402ca8a088a94748c3c7218f541be427a03c3bcfeca541aca434b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\HOPPE\\Hoppe белый с ключом.png",
+      "extension": ".png",
+      "bytes": 3517726,
+      "sha256": "d3dde57cc2875aeed925211d30c95828ed549b861a56b25dd1e4f81e7f7cac0b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\HOPPE\\Hoppe белый.png",
+      "extension": ".png",
+      "bytes": 3488745,
+      "sha256": "08091e78f611fc92a8509b6c48a39b1e61df7bd271ae830d35620a2c1ce9ec97",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\HOPPE\\Hoppe серебро с ключом.png",
+      "extension": ".png",
+      "bytes": 3568078,
+      "sha256": "a5801b5be51a546a9bc33d44c5638a7065af1686890d6408fb8c01c3a506831a",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\HOPPE\\Hoppe серебро.png",
+      "extension": ".png",
+      "bytes": 3534878,
+      "sha256": "2bd974f337fea9387b9bc58999540ac609d7eda1f9feb4e8883050ef1089e0be",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\HOPPE\\Hoppe черный с ключом.png",
+      "extension": ".png",
+      "bytes": 3354778,
+      "sha256": "8711496bbcc12bd16203e52b0f42988d6ff8e216f02807659b2a3d3ad3e7f1ca",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\HOPPE\\Hoppe черный.png",
+      "extension": ".png",
+      "bytes": 3384209,
+      "sha256": "86710d911acad95fde456877f868da9c8288d16ec75a62612597c64c9911a868",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS\\MEDOS с ключем_9006.png",
+      "extension": ".png",
+      "bytes": 3453329,
+      "sha256": "f482659d53112eff09e886a61ea2b4e896b7fced57c6225282c5bca644f3c6bf",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS\\MEDOS с ключом_9005.png",
+      "extension": ".png",
+      "bytes": 3945133,
+      "sha256": "71af6888a93cef252e36ca38dc56cdbe9ff73f5da2c647144f140494019ec179",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS\\MEDOS с ключом_9016.png",
+      "extension": ".png",
+      "bytes": 3807382,
+      "sha256": "1cead47771ac2817b13d0ceb7178b7747aa0915ec7073a53628ca66d6c35715f",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS с ключем_9006.png",
+      "extension": ".png",
+      "bytes": 3453329,
+      "sha256": "f482659d53112eff09e886a61ea2b4e896b7fced57c6225282c5bca644f3c6bf",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS с ключом_8019.png",
+      "extension": ".png",
+      "bytes": 3570980,
+      "sha256": "ea942224ee8a5a0903db9c59eeb03cdd69efedc6688a6b970d111d123769cc9a",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS с ключом_9005.png",
+      "extension": ".png",
+      "bytes": 3945133,
+      "sha256": "71af6888a93cef252e36ca38dc56cdbe9ff73f5da2c647144f140494019ec179",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS с ключом_9016.png",
+      "extension": ".png",
+      "bytes": 3807382,
+      "sha256": "1cead47771ac2817b13d0ceb7178b7747aa0915ec7073a53628ca66d6c35715f",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS с ключом_бронза.png",
+      "extension": ".png",
+      "bytes": 4062246,
+      "sha256": "768d27ffccd1252be8dba4f78311ab9eb1c7c841d88c5da94005ac15a11f803d",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS с ключом_золото.png",
+      "extension": ".png",
+      "bytes": 4125780,
+      "sha256": "39b213d092327f21269cc0b974d0b1156641e5ccb08acffc2716cdf633f36e4c",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS_8019.png",
+      "extension": ".png",
+      "bytes": 3549483,
+      "sha256": "bc715b38538c7245362e760ef93caf466d98d41e4a57daf3f54f575970b35594",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS_9005.png",
+      "extension": ".png",
+      "bytes": 3926227,
+      "sha256": "609bcd999fff6253689fa3bea023c24f8addec0053c1cada703c78935f1b4e0f",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS_9006.png",
+      "extension": ".png",
+      "bytes": 3428632,
+      "sha256": "89ccd5222f94d38b162751b4512d690ebf00ecf19bd53bfc5caee9770e727da9",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS_9016.png",
+      "extension": ".png",
+      "bytes": 3787591,
+      "sha256": "96166b8a97d66bdc0032a5de6d720b237a9fcc26df3f87b2131b19049664861b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS_бронза.png",
+      "extension": ".png",
+      "bytes": 4041530,
+      "sha256": "650e3dd829fd81ef8af26fbd042402568a4829793c167c92ac5862cea7385db1",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\MEDOS Алюмодерево\\MEDOS_золото.png",
+      "extension": ".png",
+      "bytes": 4104932,
+      "sha256": "f672b0334ec1e2a495c51078925ece42ddbc1ca3aa94717e9f27f7df0c952437",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с видимым редуктором белый.png",
+      "extension": ".png",
+      "bytes": 3687813,
+      "sha256": "4e2a09927ba2276a03308c67df1f0efbdb6c2fdaab98d00c4372ddc31a654474",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с видимым редуктором серый.png",
+      "extension": ".png",
+      "bytes": 3888640,
+      "sha256": "571dd34adc987fcae651aadb8cfccade16e21187270dab3161bb268ea66b56d5",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с видимым редуктором черный.png",
+      "extension": ".png",
+      "bytes": 3622449,
+      "sha256": "ceb76491249de9f6262095a4483a0bfe85c2b1c3c6d7ea0bb843bc9522065081",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с видимым редуктором_9005.png",
+      "extension": ".png",
+      "bytes": 3622449,
+      "sha256": "ceb76491249de9f6262095a4483a0bfe85c2b1c3c6d7ea0bb843bc9522065081",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с видимым редуктором_9016.png",
+      "extension": ".png",
+      "bytes": 3687813,
+      "sha256": "4e2a09927ba2276a03308c67df1f0efbdb6c2fdaab98d00c4372ddc31a654474",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с видимым редуктором_серый.png",
+      "extension": ".png",
+      "bytes": 3888640,
+      "sha256": "571dd34adc987fcae651aadb8cfccade16e21187270dab3161bb268ea66b56d5",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с замком белый.png",
+      "extension": ".png",
+      "bytes": 3738532,
+      "sha256": "59974283996fb0fd5b23825092135e18f06bd4d77cf7ac2faa4e0065746df85d",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с замком серый.png",
+      "extension": ".png",
+      "bytes": 3946300,
+      "sha256": "c289740ced11571890ae3bb97f21e97fea91b3b3f226a71f69207f928a3bbd37",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с замком черный.png",
+      "extension": ".png",
+      "bytes": 3673388,
+      "sha256": "f3d6e66b16da9f285868274eaa5f03e13a0799b22cf2ef67176a85e02d1949bc",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с замком_белый.png",
+      "extension": ".png",
+      "bytes": 3738532,
+      "sha256": "59974283996fb0fd5b23825092135e18f06bd4d77cf7ac2faa4e0065746df85d",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с замком_серый.png",
+      "extension": ".png",
+      "bytes": 3946300,
+      "sha256": "c289740ced11571890ae3bb97f21e97fea91b3b3f226a71f69207f928a3bbd37",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO с замком_черный.png",
+      "extension": ".png",
+      "bytes": 3673388,
+      "sha256": "f3d6e66b16da9f285868274eaa5f03e13a0799b22cf2ef67176a85e02d1949bc",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO скрытый редуктор белый.png",
+      "extension": ".png",
+      "bytes": 3742914,
+      "sha256": "92eb623c691070eff1ef7b59f9855b643f6f849344528780dd8fb7d6e92c3bcf",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO скрытый редуктор серый.png",
+      "extension": ".png",
+      "bytes": 3785061,
+      "sha256": "2ef6649f77032d2f1413fe62f2b07cb44558d43fbcd3ccaf26ab244a2f25bfe5",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO скрытый редуктор черный.png",
+      "extension": ".png",
+      "bytes": 3611696,
+      "sha256": "ccb987dd7bfbf086f2eaeec6282ef7d6f5c8a035841712fa96cc0b251d23766c",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO скрытый редуктор_белый.png",
+      "extension": ".png",
+      "bytes": 3742914,
+      "sha256": "92eb623c691070eff1ef7b59f9855b643f6f849344528780dd8fb7d6e92c3bcf",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO скрытый редуктор_серый.png",
+      "extension": ".png",
+      "bytes": 3785061,
+      "sha256": "2ef6649f77032d2f1413fe62f2b07cb44558d43fbcd3ccaf26ab244a2f25bfe5",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\ROTO\\ROTO скрытый редуктор_черный.png",
+      "extension": ".png",
+      "bytes": 3611696,
+      "sha256": "ccb987dd7bfbf086f2eaeec6282ef7d6f5c8a035841712fa96cc0b251d23766c",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\STUBLINA видимый редуктор_белый.png",
+      "extension": ".png",
+      "bytes": 3741787,
+      "sha256": "dbc59cf6d109df4a3d18b180060564608d240ba5d4492296e343e9a92a6e6eef",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\STUBLINA видимый редуктор_серый.png",
+      "extension": ".png",
+      "bytes": 3971957,
+      "sha256": "e8c2ed18c7a8ec18689aa4b9c68f170926d4e84352e0f99166456b0c8fadd7e1",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\STUBLINA видимый редуктор_черный.png",
+      "extension": ".png",
+      "bytes": 3654520,
+      "sha256": "76db76c5b69fabe2801b2d64353863f20dbd3cde8282d77b0d4a6f677956701f",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\STUBLINA с ключом_белый.png",
+      "extension": ".png",
+      "bytes": 3757747,
+      "sha256": "9f6797c282bb428e7cf84c913073721d342c04acb6922cf2b203e4374aebcbb0",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\STUBLINA с ключом_серый.png",
+      "extension": ".png",
+      "bytes": 3979807,
+      "sha256": "b80b35281feac23c85c7fd2fdd68ca1a6ef1a1283ceb3530807896b91fa2db33",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\STUBLINA с ключом_черный.png",
+      "extension": ".png",
+      "bytes": 3681646,
+      "sha256": "80fbb0bcd7308ea53311a2156cb816c5a71bd79feaf52e07f7a97631bdd1271d",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\STUBLINA скрытый редуктор_белый.png",
+      "extension": ".png",
+      "bytes": 3694280,
+      "sha256": "3d79a82d2e0b23bef063c7323bf3f731c846d3af04dfff4448b6255b00277b5e",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\STUBLINA скрытый редуктор_серый.png",
+      "extension": ".png",
+      "bytes": 3837964,
+      "sha256": "9b66ed547132904d15215590e1a10fec4fc7453aa64be22a128ed96366af9859",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\STUBLINA скрытый редуктор_черный.png",
+      "extension": ".png",
+      "bytes": 3638060,
+      "sha256": "6d39a8556177050ef83824212fc91fe4cce50957a65b004049deb770842a60e2",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\Ручка_STUBLINA_золото.png",
+      "extension": ".png",
+      "bytes": 359689,
+      "sha256": "c9ef5f378e5ba05108dcfd738f56f760a127a4aebd0ea135c2cbf8d0ba26022b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\Ручка_STUBLINA_серебро.png",
+      "extension": ".png",
+      "bytes": 320662,
+      "sha256": "2a30c3b04aa0f7830ce4779f915f98c027a3bba51d74043c80ba12b0a7d83463",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Окна\\STUBLINA\\Ручка_STUBLINA_черная.png",
+      "extension": ".png",
+      "bytes": 211843,
+      "sha256": "0b24a0b050c230d9215bf084b7b960de7de1fbdb08fbc6f2be2a421a2f8d8251",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\BF73\\BF73_нажимной_9006_9016.png",
+      "extension": ".png",
+      "bytes": 8728329,
+      "sha256": "2e34e9b043443185c255340bc4cd664e77280668f0eed0bf03ce4b5a99c53fe1",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\BF73\\BF73_нажимной_орех_9005.png",
+      "extension": ".png",
+      "bytes": 9270243,
+      "sha256": "e1c01492163de04bd346993662da1f84ce8932764e7e2ba87dd693ad9519a0bc",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\BF73\\BF73_нажимной_орех_сатин.png",
+      "extension": ".png",
+      "bytes": 9329947,
+      "sha256": "50ffc6840c87ae98f28d6b867fe35d5772241643692ca847828f21dd5ab22b8f",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\BF73\\BF73_нажимной_орех_хром.png",
+      "extension": ".png",
+      "bytes": 9347973,
+      "sha256": "fae803422a2eb445073822737e5dec1d017e3efc379453e146ba035b667b9e7d",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\BF73\\BF73_штульп_7016_7016.png",
+      "extension": ".png",
+      "bytes": 8311368,
+      "sha256": "fcff1d9985834e7e921486a5e14da397fac8f98f1e5c5b494b8f700196447d14",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\BF73\\BF73_штульп_9006_9016.png",
+      "extension": ".png",
+      "bytes": 8598235,
+      "sha256": "a9d22609ce2cdeb7e69c9fe585ad1f735447f09c59751e4148baa2673cb80374",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\BF73\\BF73_штульп_орех_9005.png",
+      "extension": ".png",
+      "bytes": 9379176,
+      "sha256": "be6c4f0264404633fd019b8dca772858448cc90b811edc7e54e9aa834906b799",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\BF73\\BF73_штульп_орех_сатин.png",
+      "extension": ".png",
+      "bytes": 9425212,
+      "sha256": "5c147a31a891dbaf06c47db37ef342a3dfc8336d7ea7989c6aff93e0a0549409",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\BF73\\BF73_штульп_орех_хром.png",
+      "extension": ".png",
+      "bytes": 9430273,
+      "sha256": "17f1b0f338b5688c905cb9078b873346d99e5fbc2d66f10cd2a249c941b0fa41",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HAUTAU\\HAUTAU с замком_белый.png",
+      "extension": ".png",
+      "bytes": 3338166,
+      "sha256": "f51481dcd481130ef05c155eb7d493380e493e7abb0bc7dd5f050f6eb629aa35",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HAUTAU\\HAUTAU с замком_серый.png",
+      "extension": ".png",
+      "bytes": 3569616,
+      "sha256": "6b3d5e50f6f4347b24c796f85e0eca65e68de75c711c3e0d352f908f6b60deec",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HAUTAU\\HAUTAU с замком_черный.png",
+      "extension": ".png",
+      "bytes": 3245587,
+      "sha256": "c3388370bedbd90b7f800e3b0f9f1a2a3f728b5000e5cc5607aeef3fda908523",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HAUTAU\\HAUTAU_белый.png",
+      "extension": ".png",
+      "bytes": 3295656,
+      "sha256": "4cf60c7de1ddda19fe26cfe1e4a5c36e1e29a1197d90ec92b272796cdb1e2268",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HAUTAU\\HAUTAU_серый.png",
+      "extension": ".png",
+      "bytes": 3506259,
+      "sha256": "cca59bd36ce56a7cae144bf8498a4964688831b0b7b1f36a24248f9926979164",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HAUTAU\\HAUTAU_черный.png",
+      "extension": ".png",
+      "bytes": 3192009,
+      "sha256": "8140c53748970ba3a620fdb6d2585e31910c6ef0f6c2595b6ce66c58feed8f02",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HOPPE\\Hoppe_белый.png",
+      "extension": ".png",
+      "bytes": 9395138,
+      "sha256": "7af6428e5913fd98ec678030212282778431fa7c5937a0f803b38e94418ab900",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HOPPE\\Hoppe_белый_замок.png",
+      "extension": ".png",
+      "bytes": 9495911,
+      "sha256": "66fb0de62addb825a209acb882d4c81784eacf265a46c9f1e99bdc21bcb3dff6",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HOPPE\\Hoppe_серый.png",
+      "extension": ".png",
+      "bytes": 10271206,
+      "sha256": "2b2193f196ced13e2982f0934729ec713db48ced06ab64313b2ea14b8367fda4",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HOPPE\\Hoppe_серый_замок.png",
+      "extension": ".png",
+      "bytes": 10551453,
+      "sha256": "cce6c26304b5aff846d3729e7f13179485d6f0a54cdf00c8b169df9526265d77",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HOPPE\\Hoppe_черный.png",
+      "extension": ".png",
+      "bytes": 9759592,
+      "sha256": "8b8156d1f2879815e8a00f75b66e2755891529acb9a9c7dc3e5e6c7ab83a9e8c",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\HOPPE\\Hoppe_черный_замок.png",
+      "extension": ".png",
+      "bytes": 9926857,
+      "sha256": "d0d29011fd85e7ea62c9231b3499f4ad2f022945b27ada1ea0d1486c9019af23",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\MEDOS\\DUBLIN_белый.png",
+      "extension": ".png",
+      "bytes": 3217328,
+      "sha256": "567ea07d85613f9e282495fee3c35601f2081abcfd3a697d74edf8a8ae526af1",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\MEDOS\\DUBLIN_белый_замок.png",
+      "extension": ".png",
+      "bytes": 3289813,
+      "sha256": "7ad9abaf769fc0265ef49bac8d79a60e65d192a28ef4c93c9bee2013ccce7ee9",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\MEDOS\\DUBLIN_серый.png",
+      "extension": ".png",
+      "bytes": 3519758,
+      "sha256": "e198c1dfee5a3e51ded96b2c49cb8af8d013cf6a9322e9e87d364592d16a9291",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\MEDOS\\DUBLIN_серый_замок.png",
+      "extension": ".png",
+      "bytes": 3651556,
+      "sha256": "495104c5e8400a5211328dfa32aa98f883bf9da14b0c27c2bb595903938deaf1",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\MEDOS\\DUBLIN_черный.png",
+      "extension": ".png",
+      "bytes": 3178798,
+      "sha256": "30c32ce649d59b1dc39ccc9d262d1e9601ee983e1c30d6c26a32969f71069466",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Порталы\\SL\\MEDOS\\DUBLIN_черный_замок.png",
+      "extension": ".png",
+      "bytes": 3284855,
+      "sha256": "02566f1c472835a9ca824b6dc427e5c8fa997eae9a0a5ceca1e7306920739597",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Фасадное окно\\STUBLINA\\Ручки фасадных окон_stublina_белый.png",
+      "extension": ".png",
+      "bytes": 5890519,
+      "sha256": "0210b0ef8a37a2dd9f113516c911d50c7b31a4c62e575615f4d739c8a5198248",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Фасадное окно\\STUBLINA\\Ручки фасадных окон_stublina_серый.png",
+      "extension": ".png",
+      "bytes": 5891579,
+      "sha256": "3a16ac66b73fdc7b7cc007e120c15884d1d798f407f23256a249e67a3398506c",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Ручки\\Фасадное окно\\STUBLINA\\Ручки фасадных окон_stublina_черный.png",
+      "extension": ".png",
+      "bytes": 5744800,
+      "sha256": "73d865b83f64d9c38f3f4d806c5ef0f0a9d87259c3d088b55d8956c56c092d7c",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Имитация структурного остекления F50 SSG\\F50_SSG_pic_1bk.png",
+      "extension": ".png",
+      "bytes": 3359598,
+      "sha256": "39edf5977fadf5f3bddceaf6a1db56745c89398dd3b926c31dbda51210fcb663",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Классический фасад  ALT F50\\Крест_F50_classik_pic_1.png",
+      "extension": ".png",
+      "bytes": 3972570,
+      "sha256": "b7b98b18583368aa2ecbe2c63a38a91c78c03c5df1ea4dbbc150ae7472bd6a61",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Классический фасад  ALT F50\\Фасадная_система_1.png",
+      "extension": ".png",
+      "bytes": 2818950,
+      "sha256": "33e66a3d449f038605ec6f446059b0fb1bde9301b8cda3c11e56c88f19c73565",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Классический фасад  ALT F50\\Фасадная_система_2.png",
+      "extension": ".png",
+      "bytes": 2853545,
+      "sha256": "a51ce10aa67d2e45301a064911e3931ca0524126dd86079f441d24c6f3aca7d2",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Классический фасад ALT F60\\F60_gr.png",
+      "extension": ".png",
+      "bytes": 4232787,
+      "sha256": "1d211f86a937ae8424d50c37beb42ecd6f089c4a4791539cf49a3ea5343fc839",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Крышно-купольная система SKL50\\ALT SKL50.png",
+      "extension": ".png",
+      "bytes": 770580,
+      "sha256": "019608b24f82d33a37534e455ea5b759cbf699873a0b9e6d863c5a34d9d11480",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Лючки дымоудаления\\ALTF50_малозаметный лючок.jpg",
+      "extension": ".jpg",
+      "bytes": 762912,
+      "sha256": "b61d4b7bf43bac63d95ce8fc7064a7d1a44fb55863b9a05b4deefe30ab5f07e0",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Лючки дымоудаления\\ALTF50_стандартный лючок.jpg",
+      "extension": ".jpg",
+      "bytes": 703234,
+      "sha256": "4f643c5bde8e54cf2ae191a5f45a6ba1d356b665352deaae4c7fe1fce4cc6353",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Система элементных куполов USKL60\\USKL60.76a.png",
+      "extension": ".png",
+      "bytes": 3380804,
+      "sha256": "2e52ad21086c6cd50601f1a3361133514a48d3c9fe5b148256be779b42a729d8",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Система элементных куполов USKL60\\uskl60_pic2.png",
+      "extension": ".png",
+      "bytes": 3736036,
+      "sha256": "54f6c777c9b7ec644014d2bdb06e0507e4cf2ae7920e351e40df903a99cc1d78",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Солнцезащитные ламели SP50\\ALT SP50.jpg",
+      "extension": ".jpg",
+      "bytes": 9594539,
+      "sha256": "2357e35aa2b02d7156494b71d3fb830e098376489a21d629c7f0dd685de52ec9",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Структурный фасад ALT F50 SG\\F50_SG_pic_2k.png",
+      "extension": ".png",
+      "bytes": 3039595,
+      "sha256": "9cc564bd2fcbb79ea469977ba8e18401766a0b6c79fa0c7f8a579f0d23afb45c",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Фасад тепло-холод F50 HC\\F50_HC.png",
+      "extension": ".png",
+      "bytes": 2850512,
+      "sha256": "85e76806183aaf5f8483356cbc33097c06c78b73c8e01fe04c53fd199e461bcd",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Фасадные окна F50 FW\\Интегрированное окно с крупногабаритной створкой.png",
+      "extension": ".png",
+      "bytes": 4995290,
+      "sha256": "b8ebb68da84a26e909d3f0c1a4f56555dce79f689626a0241ea4a909d59a2f84",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Фасадные окна F50 FW\\Интегрированное окно с установкой одинарного стекла.png",
+      "extension": ".png",
+      "bytes": 4698579,
+      "sha256": "22649383e5f42a7d736c0a4a4b77829e8508b800d55f876ef120f9210ebc290b",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Фасадные окна F50 FW\\Интегрированное окно с установкой стандартного стеклопакета.jpg",
+      "extension": ".jpg",
+      "bytes": 871677,
+      "sha256": "696bd03c21a857452af6c224165bad320dd02ed4206043693fefaec1c9d0b5f5",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Фасадные окна F50 FW\\Интегрированное окно скрытая створка.jpg",
+      "extension": ".jpg",
+      "bytes": 859102,
+      "sha256": "78f00139bdac87a4460a453e6ea46a1d853f6b94b2651a55e9d68ec9da622575",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Фасадные окна F50 FW\\Интегрированное окно со створкой без терморазрыва.png",
+      "extension": ".png",
+      "bytes": 4265429,
+      "sha256": "4c879403f89e89ed22f4e036a6a254cacc2ed8dea27d7af76afb2628729f3b55",
+      "category": "partner_material"
+    },
+    {
+      "path": "Для сайтов партнеров\\Фасады\\Фасадные окна F50 FW\\Интегрированнон окно скрытая ствока смалозаметным обрамляющим профилем.jpg",
+      "extension": ".jpg",
+      "bytes": 867185,
+      "sha256": "ac5f5bdd3e75f67c3c31bad9b2047bf692706f744bb00ad985972a4ed2231e00",
+      "category": "partner_material"
+    }
+  ]
+}

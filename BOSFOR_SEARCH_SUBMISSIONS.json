@@ -1,0 +1,82 @@
+{
+  "version": "2026-06-20",
+  "allowed_statuses": ["pending_access", "ready_to_submit", "submitted", "verified", "failed"],
+  "submissions": [
+    {
+      "id": "google_sitemap",
+      "system": "Google Search Console",
+      "type": "sitemap",
+      "property": "sc-domain:bosforkmv.ru",
+      "target": "https://www.bosforkmv.ru/sitemap.xml",
+      "status": "pending_access",
+      "submitted_at": null,
+      "submitted_by": null,
+      "receipt": null,
+      "verified_at": null
+    },
+    {
+      "id": "yandex_sitemap",
+      "system": "Яндекс Вебмастер",
+      "type": "sitemap",
+      "property": "https://www.bosforkmv.ru/",
+      "target": "https://www.bosforkmv.ru/sitemap.xml",
+      "status": "pending_access",
+      "submitted_at": null,
+      "submitted_by": null,
+      "receipt": null,
+      "verified_at": null
+    },
+    {
+      "id": "indexnow_canonical_urls",
+      "system": "IndexNow",
+      "type": "url_batch",
+      "property": "www.bosforkmv.ru",
+      "target": "website/sitemap.xml",
+      "expected_url_count": 40,
+      "status": "ready_to_submit",
+      "submitted_at": null,
+      "submitted_by": null,
+      "receipt": null,
+      "verified_at": null
+    },
+    {
+      "id": "google_priority_recrawl",
+      "system": "Google Search Console",
+      "type": "priority_recrawl",
+      "property": "sc-domain:bosforkmv.ru",
+      "target": [
+        "https://www.bosforkmv.ru/",
+        "https://www.bosforkmv.ru/alyuminievye-okna/",
+        "https://www.bosforkmv.ru/plastikovye-okna/",
+        "https://www.bosforkmv.ru/fasady-i-vitrazhi/",
+        "https://www.bosforkmv.ru/zastrojshhikam/",
+        "https://www.bosforkmv.ru/proekty/"
+      ],
+      "status": "pending_access",
+      "submitted_at": null,
+      "submitted_by": null,
+      "receipt": null,
+      "verified_at": null
+    },
+    {
+      "id": "yandex_priority_recrawl",
+      "system": "Яндекс Вебмастер",
+      "type": "priority_recrawl",
+      "property": "https://www.bosforkmv.ru/",
+      "target": [
+        "https://www.bosforkmv.ru/",
+        "https://www.bosforkmv.ru/alyuminievye-okna/",
+        "https://www.bosforkmv.ru/plastikovye-okna/",
+        "https://www.bosforkmv.ru/fasady-i-vitrazhi/",
+        "https://www.bosforkmv.ru/zastrojshhikam/",
+        "https://www.bosforkmv.ru/proekty/"
+      ],
+      "status": "pending_access",
+      "submitted_at": null,
+      "submitted_by": null,
+      "receipt": null,
+      "verified_at": null
+    }
+  ],
+  "rule": "submitted or verified status requires actor, UTC timestamp and receipt evidence"
+}

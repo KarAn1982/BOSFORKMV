@@ -1,0 +1,101 @@
+{
+  "version": "2026-06-19",
+  "source_folder": "C:\\Users\\Анатолий\\Documents\\New project\\Для сайтов партнеров",
+  "total_files": 239,
+  "files_by_extension": {
+    ".db": 2,
+    ".docx": 37,
+    ".jpg": 19,
+    ".png": 181
+  },
+  "files_by_top_folder": {
+    "Балконы и витражи": 3,
+    "Двери без термоизоляции": 7,
+    "Двери с термоизоляцией": 21,
+    "Интерьерные решения": 5,
+    "НВФ": 6,
+    "Окна без термоизоляции": 3,
+    "Окна с термоизоляцией": 52,
+    "Порталы": 13,
+    "Противопожарные двери": 3,
+    "Ручки": 97,
+    "Фасады": 29
+  },
+  "systems": {
+    "windows": [
+      "ALT W72 VS",
+      "ALT W72 W",
+      "ALT W72 HS",
+      "ALT W72 AW",
+      "ALT W77 VS",
+      "ALT W77 W",
+      "ALT W77 HS",
+      "ALT JB",
+      "ALT W62",
+      "ALT W62 HS",
+      "ALT W62 VS",
+      "ALT C43",
+      "ALT C48"
+    ],
+    "doors": [
+      "ALT W72 D",
+      "ALT W72 TD",
+      "ALT W72 HD",
+      "ALT W72 SGD",
+      "ALT W62 D",
+      "ALT W62 SGD",
+      "ALT C43",
+      "ALT C48"
+    ],
+    "portals": [
+      "ALT SL130",
+      "ALT SL160",
+      "ALT BF73"
+    ],
+    "facades": [
+      "ALT F50",
+      "ALT F60",
+      "ALT F50 SG",
+      "ALT F50 SSG",
+      "ALT F50 HC",
+      "ALT F50 FW",
+      "ALT USKL60",
+      "ALT SKL50",
+      "ALT SP50"
+    ],
+    "ventilated_facades": [
+      "ALT 150"
+    ],
+    "fire_resistant": [
+      "ALT FR76",
+      "ALT W72 FR"
+    ],
+    "balconies_and_ventilation": [
+      "ALT 100P",
+      "ALT VR26"
+    ],
+    "interior": [
+      "ALT 110",
+      "ALT 111",
+      "ALT 115",
+      "ALT 118"
+    ],
+    "hardware": [
+      "ROTO",
+      "HAUTAU",
+      "DUBLIN",
+      "STUBLINA",
+      "ALUTECH",
+      "MEDOS",
+      "HOPPE",
+      "DEBAR"
+    ]
+  },
+  "publication_status": "technical_material_available_relationship_status_unverified",
+  "rules": [
+    "System names may be used as product taxonomy",
+    "Technical values must be copied only after source-document review",
+    "Official partner wording requires a current certificate or official listing",
+    "Images require confirmation of publication and trademark rights"
+  ]
+}
